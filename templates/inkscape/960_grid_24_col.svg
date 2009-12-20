@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1020"
+   height="1020"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="960_grid_16_col.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata2425">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 510 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1020 : 510 : 1"
+       inkscape:persp3d-origin="510 : 340 : 1"
+       id="perspective56" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0490196"
+     inkscape:cx="276.2217"
+     inkscape:cy="787.24856"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1295"
+     inkscape:window-height="998"
+     inkscape:window-x="377"
+     inkscape:window-y="0">
+    <sodipodi:guide position="30,0" orientation="1,0" id="guide-30" />
+    <sodipodi:guide position="30,0" orientation="1,0" id="guide-30" />
+    <sodipodi:guide position="35,0" orientation="1,0" id="guide-35" />
+    <sodipodi:guide position="65,0" orientation="1,0" id="guide-65" />
+    <sodipodi:guide position="70,0" orientation="1,0" id="guide-70" />
+    <sodipodi:guide position="70,0" orientation="1,0" id="guide-70" />
+    <sodipodi:guide position="75,0" orientation="1,0" id="guide-75" />
+    <sodipodi:guide position="105,0" orientation="1,0" id="guide-105" />
+    <sodipodi:guide position="110,0" orientation="1,0" id="guide-110" />
+    <sodipodi:guide position="110,0" orientation="1,0" id="guide-110" />
+    <sodipodi:guide position="115,0" orientation="1,0" id="guide-115" />
+    <sodipodi:guide position="145,0" orientation="1,0" id="guide-145" />
+    <sodipodi:guide position="150,0" orientation="1,0" id="guide-150" />
+    <sodipodi:guide position="150,0" orientation="1,0" id="guide-150" />
+    <sodipodi:guide position="155,0" orientation="1,0" id="guide-155" />
+    <sodipodi:guide position="185,0" orientation="1,0" id="guide-185" />
+    <sodipodi:guide position="190,0" orientation="1,0" id="guide-190" />
+    <sodipodi:guide position="190,0" orientation="1,0" id="guide-190" />
+    <sodipodi:guide position="195,0" orientation="1,0" id="guide-195" />
+    <sodipodi:guide position="225,0" orientation="1,0" id="guide-225" />
+    <sodipodi:guide position="230,0" orientation="1,0" id="guide-230" />
+    <sodipodi:guide position="230,0" orientation="1,0" id="guide-230" />
+    <sodipodi:guide position="235,0" orientation="1,0" id="guide-235" />
+    <sodipodi:guide position="265,0" orientation="1,0" id="guide-265" />
+    <sodipodi:guide position="270,0" orientation="1,0" id="guide-270" />
+    <sodipodi:guide position="270,0" orientation="1,0" id="guide-270" />
+    <sodipodi:guide position="275,0" orientation="1,0" id="guide-275" />
+    <sodipodi:guide position="305,0" orientation="1,0" id="guide-305" />
+    <sodipodi:guide position="310,0" orientation="1,0" id="guide-310" />
+    <sodipodi:guide position="310,0" orientation="1,0" id="guide-310" />
+    <sodipodi:guide position="315,0" orientation="1,0" id="guide-315" />
+    <sodipodi:guide position="345,0" orientation="1,0" id="guide-345" />
+    <sodipodi:guide position="350,0" orientation="1,0" id="guide-350" />
+    <sodipodi:guide position="350,0" orientation="1,0" id="guide-350" />
+    <sodipodi:guide position="355,0" orientation="1,0" id="guide-355" />
+    <sodipodi:guide position="385,0" orientation="1,0" id="guide-385" />
+    <sodipodi:guide position="390,0" orientation="1,0" id="guide-390" />
+    <sodipodi:guide position="390,0" orientation="1,0" id="guide-390" />
+    <sodipodi:guide position="395,0" orientation="1,0" id="guide-395" />
+    <sodipodi:guide position="425,0" orientation="1,0" id="guide-425" />
+    <sodipodi:guide position="430,0" orientation="1,0" id="guide-430" />
+    <sodipodi:guide position="430,0" orientation="1,0" id="guide-430" />
+    <sodipodi:guide position="435,0" orientation="1,0" id="guide-435" />
+    <sodipodi:guide position="465,0" orientation="1,0" id="guide-465" />
+    <sodipodi:guide position="470,0" orientation="1,0" id="guide-470" />
+    <sodipodi:guide position="470,0" orientation="1,0" id="guide-470" />
+    <sodipodi:guide position="475,0" orientation="1,0" id="guide-475" />
+    <sodipodi:guide position="505,0" orientation="1,0" id="guide-505" />
+    <sodipodi:guide position="510,0" orientation="1,0" id="guide-510" />
+    <sodipodi:guide position="510,0" orientation="1,0" id="guide-510" />
+    <sodipodi:guide position="515,0" orientation="1,0" id="guide-515" />
+    <sodipodi:guide position="545,0" orientation="1,0" id="guide-545" />
+    <sodipodi:guide position="550,0" orientation="1,0" id="guide-550" />
+    <sodipodi:guide position="550,0" orientation="1,0" id="guide-550" />
+    <sodipodi:guide position="555,0" orientation="1,0" id="guide-555" />
+    <sodipodi:guide position="585,0" orientation="1,0" id="guide-585" />
+    <sodipodi:guide position="590,0" orientation="1,0" id="guide-590" />
+    <sodipodi:guide position="590,0" orientation="1,0" id="guide-590" />
+    <sodipodi:guide position="595,0" orientation="1,0" id="guide-595" />
+    <sodipodi:guide position="625,0" orientation="1,0" id="guide-625" />
+    <sodipodi:guide position="630,0" orientation="1,0" id="guide-630" />
+    <sodipodi:guide position="630,0" orientation="1,0" id="guide-630" />
+    <sodipodi:guide position="635,0" orientation="1,0" id="guide-635" />
+    <sodipodi:guide position="665,0" orientation="1,0" id="guide-665" />
+    <sodipodi:guide position="670,0" orientation="1,0" id="guide-670" />
+    <sodipodi:guide position="670,0" orientation="1,0" id="guide-670" />
+    <sodipodi:guide position="675,0" orientation="1,0" id="guide-675" />
+    <sodipodi:guide position="705,0" orientation="1,0" id="guide-705" />
+    <sodipodi:guide position="710,0" orientation="1,0" id="guide-710" />
+    <sodipodi:guide position="710,0" orientation="1,0" id="guide-710" />
+    <sodipodi:guide position="715,0" orientation="1,0" id="guide-715" />
+    <sodipodi:guide position="745,0" orientation="1,0" id="guide-745" />
+    <sodipodi:guide position="750,0" orientation="1,0" id="guide-750" />
+    <sodipodi:guide position="750,0" orientation="1,0" id="guide-750" />
+    <sodipodi:guide position="755,0" orientation="1,0" id="guide-755" />
+    <sodipodi:guide position="785,0" orientation="1,0" id="guide-785" />
+    <sodipodi:guide position="790,0" orientation="1,0" id="guide-790" />
+    <sodipodi:guide position="790,0" orientation="1,0" id="guide-790" />
+    <sodipodi:guide position="795,0" orientation="1,0" id="guide-795" />
+    <sodipodi:guide position="825,0" orientation="1,0" id="guide-825" />
+    <sodipodi:guide position="830,0" orientation="1,0" id="guide-830" />
+    <sodipodi:guide position="830,0" orientation="1,0" id="guide-830" />
+    <sodipodi:guide position="835,0" orientation="1,0" id="guide-835" />
+    <sodipodi:guide position="865,0" orientation="1,0" id="guide-865" />
+    <sodipodi:guide position="870,0" orientation="1,0" id="guide-870" />
+    <sodipodi:guide position="870,0" orientation="1,0" id="guide-870" />
+    <sodipodi:guide position="875,0" orientation="1,0" id="guide-875" />
+    <sodipodi:guide position="905,0" orientation="1,0" id="guide-905" />
+    <sodipodi:guide position="910,0" orientation="1,0" id="guide-910" />
+    <sodipodi:guide position="910,0" orientation="1,0" id="guide-910" />
+    <sodipodi:guide position="915,0" orientation="1,0" id="guide-915" />
+    <sodipodi:guide position="945,0" orientation="1,0" id="guide-945" />
+    <sodipodi:guide position="950,0" orientation="1,0" id="guide-950" />
+    <sodipodi:guide position="950,0" orientation="1,0" id="guide-950" />
+    <sodipodi:guide position="955,0" orientation="1,0" id="guide-955" />
+    <sodipodi:guide position="985,0" orientation="1,0" id="guide-985" />
+    <sodipodi:guide position="990,0" orientation="1,0" id="guide-990" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid2390"
+       visible="true"
+       enabled="true"
+       color="#0000ff"
+       opacity="0.0627451"
+       empcolor="#0000ff"
+       empopacity="0.1254902"
+       dotted="false"
+       spacingx="1px"
+       spacingy="1px"
+       originx="5px"
+       originy="0px" />
+  </sodipodi:namedview>
+</svg>
