@@ -5,7 +5,7 @@
 	Licensed under GPL and MIT.
 */
 
-/* Container >> 24 Columns
+/* `Container >> 24 Columns
 ----------------------------------------------------------------------------------------------------*/
 .container_24 {
 	margin-left: auto;
@@ -13,7 +13,7 @@
 	width: 960px;
 }
 
-/* Grid >> Global
+/* `Grid >> Global
 ----------------------------------------------------------------------------------------------------*/
 
 .grid_1,
@@ -42,12 +42,37 @@
 .grid_24 {
 	display: inline;
 	float: left;
-	position: relative;
 	margin-left: 5px;
 	margin-right: 5px;
 }
 
-/* Grid >> Children (Alpha ~ First, Omega ~ Last)
+.push_1, .pull_1,
+.push_2, .pull_2,
+.push_3, .pull_3,
+.push_4, .pull_4,
+.push_5, .pull_5,
+.push_6, .pull_6,
+.push_7, .pull_7,
+.push_8, .pull_8,
+.push_9, .pull_9,
+.push_10, .pull_10,
+.push_11, .pull_11,
+.push_12, .pull_12,
+.push_13, .pull_13,
+.push_14, .pull_14,
+.push_15, .pull_15,
+.push_16, .pull_16,
+.push_17, .pull_17,
+.push_18, .pull_18,
+.push_19, .pull_19,
+.push_20, .pull_20,
+.push_21, .pull_21,
+.push_22, .pull_22,
+.push_23, .pull_23 {
+	position: relative;
+}
+
+/* `Grid >> Children (Alpha ~ First, Omega ~ Last)
 ----------------------------------------------------------------------------------------------------*/
 
 .alpha {
@@ -58,7 +83,7 @@
 	margin-right: 0;
 }
 
-/* Grid >> 24 Columns
+/* `Grid >> 24 Columns
 ----------------------------------------------------------------------------------------------------*/
 
 .container_24 .grid_1 {
@@ -157,7 +182,7 @@
 	width: 950px;
 }
 
-/* Prefix Extra Space >> 24 Columns
+/* `Prefix Extra Space >> 24 Columns
 ----------------------------------------------------------------------------------------------------*/
 
 .container_24 .prefix_1 {
@@ -252,7 +277,7 @@
 	padding-left: 920px;
 }
 
-/* Suffix Extra Space >> 24 Columns
+/* `Suffix Extra Space >> 24 Columns
 ----------------------------------------------------------------------------------------------------*/
 
 .container_24 .suffix_1 {
@@ -347,7 +372,7 @@
 	padding-right: 920px;
 }
 
-/* Push Space >> 24 Columns
+/* `Push Space >> 24 Columns
 ----------------------------------------------------------------------------------------------------*/
 
 .container_24 .push_1 {
@@ -442,7 +467,7 @@
 	left: 920px;
 }
 
-/* Pull Space >> 24 Columns
+/* `Pull Space >> 24 Columns
 ----------------------------------------------------------------------------------------------------*/
 
 .container_24 .pull_1 {
