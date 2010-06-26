@@ -1,0 +1,26 @@
+(function() {
+	var pattern = [10, 60, 10];
+	var p = pattern.length;
+	var columns = 12;
+	var x = 0;
+	var guides = [x];
+
+	for (var c = 0; c < columns; c++) {
+		for (var i = 0; i < p; i++) {
+			x += pattern[i];
+			guides.push(x);
+		}
+	}
+
+	var d = fw.getDocumentDOM();
+		d.removeAllGuides('horizontal');
+		d.removeAllGuides('vertical');
+		d.setShowGuides(true);
+
+	var padding = Math.round((d.width - x) / 2);
+	var g = guides.length;
+
+	for (var j = 0; j < g; j++) {
+		d.addGuide(padding + guides[j], 'vertical');
+	}
+})();

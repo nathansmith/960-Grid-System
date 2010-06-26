@@ -1,0 +1,22 @@
+<macromedia-extension name="960.gs Grid Generators" version="1.0.0" type="Command">
+	<author name="Nathan Smith" />
+	<products>
+		<product name="Fireworks" version="6" primary="true" />
+	</products>
+	<description>
+		<![CDATA[
+			This set of commands generates 960.gs grid guidelines in current file.
+		]]>
+	</description>
+	<ui-access>
+		<![CDATA[
+			You can run these commands from Commands menu.
+		]]>
+	</ui-access>
+	<files>
+		<file name="12 columns.jsf" destination="$fireworks/configuration/commands/960.gs" />
+		<file name="16 columns.jsf" destination="$fireworks/configuration/commands/960.gs" />
+		<file name="24 columns.jsf" destination="$fireworks/configuration/commands/960.gs" />
+	</files>
+	<configuration-changes />
+</macromedia-extension>
