@@ -18,5 +18,5 @@
 		<file name="16 columns.jsf" destination="$fireworks/configuration/commands/960.gs" />
 		<file name="24 columns.jsf" destination="$fireworks/configuration/commands/960.gs" />
 	</files>
-	<configuration-changes />
+	<configuration-changes></configuration-changes>
 </macromedia-extension>
