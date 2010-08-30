@@ -1,6 +1,6 @@
-960 Grid System
-Version 1.5
-2010-06-26
+===============
+960 GRID SYSTEM
+===============
 
 Created by Nathan Smith. See the official site for more info: http://960.gs/
 
