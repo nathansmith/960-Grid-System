@@ -605,6 +605,7 @@ body {
 	The following zoom:1 rule is specifically for IE6 + IE7.
 	Move to separate stylesheet if invalid CSS is a problem.
 */
+
 * html .clearfix,
 *:first-child+html .clearfix {
 	zoom: 1;
