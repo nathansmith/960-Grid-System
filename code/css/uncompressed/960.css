@@ -5,6 +5,18 @@
 	Licensed under GPL and MIT.
 */
 
+/*
+	Forces backgrounds to span full width,
+	even if there is horizontal scrolling.
+	Increase this if your layout is wider.
+
+	Note: IE6 works fine without this fix.
+*/
+
+body {
+	min-width: 960px;
+}
+
 /* `Containers
 ----------------------------------------------------------------------------------------------------*/
 
@@ -622,6 +634,7 @@
 	The following zoom:1 rule is specifically for IE6 + IE7.
 	Move to separate stylesheet if invalid CSS is a problem.
 */
+
 * html .clearfix,
 *:first-child+html .clearfix {
 	zoom: 1;

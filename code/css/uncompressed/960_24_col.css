@@ -5,6 +5,18 @@
 	Licensed under GPL and MIT.
 */
 
+/*
+	Forces backgrounds to span full width,
+	even if there is horizontal scrolling.
+	Increase this if your layout is wider.
+
+	Note: IE6 works fine without this fix.
+*/
+
+body {
+	min-width: 960px;
+}
+
 /* `Container >> 24 Columns
 ----------------------------------------------------------------------------------------------------*/
 .container_24 {
