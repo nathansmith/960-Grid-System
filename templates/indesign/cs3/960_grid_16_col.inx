@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="33" type="document" DOMVersion="6.0" readerVersion="5.0" featureSet="257" product="6.0(352)" ?>
+<docu stls="y_1_o_u83" zero="x_2_U_0_U_0" pacl="o_ua3" DCcp="c_U.S. Web Coated (SWOP) v2" DCrp="c_sRGB IEC61966-2.1" DCci="e_RIcs" DCbi="e_RIcs" DCii="e_RIcs" CSrp="e_CPpp" CScp="e_CPpd" DCsa="b_f" Self="rc_d">
+	<lang pnam="rk_English: USA" lsqu="c_‘’" ldqu="c_“”" pril="rk_English" subl="rk_USA" ID="rl_10d" lhyv="c_Proximity" lspv="c_Proximity" Self="rc_u3a"/>
+	<lang pnam="rk_English: UK" lsqu="c_‘’" ldqu="c_“”" pril="rk_English" subl="rk_UK" ID="rl_20d" lhyv="c_Proximity" lspv="c_Proximity" Self="rc_u40"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_0_D_0_D_0_D_100" ovrd="e_eOvB" atcs="e_nasp" atvl="x_0" pnam="c_Black" edbl="b_f" rmbl="b_f" pvis="b_t" swID="l_1f01" Self="rc_ub"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_100_D_0_D_0_D_0" ovrd="e_eOvH" atcs="e_nasp" atvl="x_0" pnam="c_Cyan" edbl="b_f" rmbl="b_f" pvis="b_f" swID="l_1f01" Self="rc_uc"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_0_D_100_D_0_D_0" ovrd="e_eOvH" atcs="e_nasp" atvl="x_0" pnam="c_Magenta" edbl="b_f" rmbl="b_f" pvis="b_f" swID="l_1f01" Self="rc_ud"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_0_D_0_D_0_D_0" ovrd="e_eOvP" atcs="e_nasp" atvl="x_0" pnam="c_Paper" edbl="b_t" rmbl="b_f" pvis="b_t" swID="l_1f01" Self="rc_uf"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_0_D_0_D_255" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_RGB Blue" edbl="b_t" rmbl="b_t" pvis="b_t" swID="l_1f01" Self="rc_ub3"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_0_D_255_D_255" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_RGB Cyan" edbl="b_t" rmbl="b_t" pvis="b_t" swID="l_1f01" Self="rc_ub4"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_0_D_255_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_RGB Green" edbl="b_t" rmbl="b_t" pvis="b_t" swID="l_1f01" Self="rc_ub5"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_0_D_255" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_RGB Magenta" edbl="b_t" rmbl="b_t" pvis="b_t" swID="l_1f01" Self="rc_ub6"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_RGB Red" edbl="b_t" rmbl="b_t" pvis="b_t" swID="l_1f01" Self="rc_ub7"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_255_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_RGB Yellow" edbl="b_t" rmbl="b_t" pvis="b_t" swID="l_1f01" Self="rc_ub8"/>
+	<colr clmd="e_regs" clsp="e_CMYK" clvl="x_4_D_100_D_100_D_100_D_100" ovrd="e_eOvR" atcs="e_nasp" atvl="x_0" pnam="c_Registration" edbl="b_f" rmbl="b_f" pvis="b_t" swID="l_1f01" Self="rc_u10"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_0_D_0_D_100_D_0" ovrd="e_eOvH" atcs="e_nasp" atvl="x_0" pnam="c_Yellow" edbl="b_f" rmbl="b_f" pvis="b_f" swID="l_1f01" Self="rc_u11"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_0_D_0_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="k_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_u6f"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_0_D_0_D_0_D_100" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="k_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_u71"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_ub9"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_uba"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_ubb"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_ubc"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_ubd"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_ube"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_ubf"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_uc0"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_uc1"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_uc2"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_uc3"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_uc4"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_uc5"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_uc6"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_uc7"/>
+	<colr clmd="e_prss" clsp="e_cRGB" clvl="x_3_D_255_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_uc8"/>
+	<cink pnam="k_Process Cyan" inAn="D_75" inCP="b_f" inFr="D_70" inND="D_0.61" inPI="b_t" inPo="l_1" inTp="e_norm" Self="rc_u7"/>
+	<cink pnam="k_Process Magenta" inAn="D_15" inCP="b_f" inFr="D_70" inND="D_0.76" inPI="b_t" inPo="l_2" inTp="e_norm" Self="rc_u8"/>
+	<cink pnam="k_Process Yellow" inAn="D_0" inCP="b_f" inFr="D_70" inND="D_0.16" inPI="b_t" inPo="l_3" inTp="e_norm" Self="rc_u9"/>
+	<cink pnam="k_Process Black" inAn="D_45" inCP="b_f" inFr="D_70" inND="D_1.7" inPI="b_t" inPo="l_4" inTp="e_norm" Self="rc_ua"/>
+	<ctbb pvrs="l_0" bbtp="e_bbtc" spcl="y_0" bben="e_eta6" bbmx="x_6_D_1_D_0_D_0_D_1_D_0_D_0" pnam="k_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_u6e">
+		<pcnt><![CDATA[AAAAAUBv4AAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></pcnt>
+	</ctbb>
+	<swch pnam="c_None" edbl="b_f" rmbl="b_f" pvis="b_t" swID="l_1f01" Self="rc_ue"/>
+	<grad grdt="e_axlg" pnam="k_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_u70">
+		<gstp gcls="o_u6f" loca="D_0" Self="rc_u70gstp0"/>
+		<gstp gcls="o_ub" loca="D_100" mids="D_50" Self="rc_u70gstp1"/>
+	</grad>
+	<StSt pnam="k_Triple~sep~Stroke" Self="rc_dib01a"/>
+	<StSt pnam="k_ThickThinThick" Self="rc_dib009"/>
+	<StSt pnam="k_ThinThickThin" Self="rc_dib008"/>
+	<StSt pnam="k_ThickThick" Self="rc_dib007"/>
+	<StSt pnam="k_ThickThin" Self="rc_dib006"/>
+	<StSt pnam="k_ThinThick" Self="rc_dib005"/>
+	<StSt pnam="k_ThinThin" Self="rc_dib004"/>
+	<StSt pnam="k_Japanese Dots" Self="rc_di5a3f"/>
+	<StSt pnam="k_White Diamond" Self="rc_di5a3e"/>
+	<StSt pnam="k_Left Slant Hash" Self="rc_di5a3d"/>
+	<StSt pnam="k_Right Slant Hash" Self="rc_di5a3c"/>
+	<StSt pnam="k_Straight Hash" Self="rc_di5a3b"/>
+	<StSt pnam="k_Wavy" Self="rc_di5a3a"/>
+	<StSt pnam="k_Canned Dotted" Self="rc_di5a39"/>
+	<StSt pnam="k_Canned Dashed 3x2" Self="rc_di5a38"/>
+	<StSt pnam="k_Canned Dashed 4x4" Self="rc_di5a37"/>
+	<StSt pnam="k_Dashed" Self="rc_di5a2a"/>
+	<StSt pnam="k_Solid" Self="rc_di5a29"/>
+	<fFam pnam="c_Myriad Pro" Self="rc_di78">
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Condensed" fPSN="k_MyriadPro-Cond" stts="e_fsIn" fSty="c_Condensed" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Condensed" fFUN="c_Myriad Pro Condensed" fStN="c_Condensed" fPLT="k_" vers="c_Version 2.052;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di78FonTnMyriad Pro Condensed"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Condensed Italic" fPSN="k_MyriadPro-CondIt" stts="e_fsIn" fSty="c_Condensed Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Condensed Italic" fFUN="c_Myriad Pro Condensed Italic" fStN="c_Condensed Italic" fPLT="k_" vers="c_Version 2.052;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di78FonTnMyriad Pro Condensed Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Bold Condensed" fPSN="k_MyriadPro-BoldCond" stts="e_fsIn" fSty="c_Bold Condensed" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Bold Condensed" fFUN="c_Myriad Pro Bold Condensed" fStN="c_Bold Condensed" fPLT="k_" vers="c_Version 2.052;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di78FonTnMyriad Pro Bold Condensed"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Bold Condensed Italic" fPSN="k_MyriadPro-BoldCondIt" stts="e_fsIn" fSty="c_Bold Condensed Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Bold Condensed Italic" fFUN="c_Myriad Pro Bold Condensed Italic" fStN="c_Bold Condensed Italic" fPLT="k_" vers="c_Version 2.052;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di78FonTnMyriad Pro Bold Condensed Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Regular" fPSN="k_MyriadPro-Regular" stts="e_fsIn" fSty="c_Regular" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro" fFUN="c_Myriad Pro" fStN="c_Regular" fPLT="k_" vers="c_Version 2.052;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di78FonTnMyriad Pro Regular"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Italic" fPSN="k_MyriadPro-It" stts="e_fsIn" fSty="c_Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Italic" fFUN="c_Myriad Pro Italic" fStN="c_Italic" fPLT="k_" vers="c_Version 2.052;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di78FonTnMyriad Pro Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Semibold" fPSN="k_MyriadPro-Semibold" stts="e_fsIn" fSty="c_Semibold" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Semibold" fFUN="c_Myriad Pro Semibold" fStN="c_Semibold" fPLT="k_" vers="c_Version 2.052;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di78FonTnMyriad Pro Semibold"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Semibold Italic" fPSN="k_MyriadPro-SemiboldIt" stts="e_fsIn" fSty="c_Semibold Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Semibold Italic" fFUN="c_Myriad Pro Semibold Italic" fStN="c_Semibold Italic" fPLT="k_" vers="c_Version 2.052;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di78FonTnMyriad Pro Semibold Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Bold" fPSN="k_MyriadPro-Bold" stts="e_fsIn" fSty="c_Bold" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Bold" fFUN="c_Myriad Pro Bold" fStN="c_Bold" fPLT="k_" vers="c_Version 2.052;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di78FonTnMyriad Pro Bold"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Bold Italic" fPSN="k_MyriadPro-BoldIt" stts="e_fsIn" fSty="c_Bold Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Bold Italic" fFUN="c_Myriad Pro Bold Italic" fStN="c_Bold Italic" fPLT="k_" vers="c_Version 2.052;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di78FonTnMyriad Pro Bold Italic"/>
+	</fFam>
+	<fFam pnam="c_Minion Pro" Self="rc_di79">
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Bold Cond" fPSN="k_MinionPro-BoldCn" stts="e_fsIn" fSty="c_Bold Cond" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro Bold Cond" fFUN="c_Minion Pro Bold Cond" fStN="c_Bold Cond" fPLT="k_" vers="c_Version 2.046;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di79FonTnMinion Pro Bold Cond"/>
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Bold Cond Italic" fPSN="k_MinionPro-BoldCnIt" stts="e_fsIn" fSty="c_Bold Cond Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro Bold Cond Italic" fFUN="c_Minion Pro Bold Cond Italic" fStN="c_Bold Cond Italic" fPLT="k_" vers="c_Version 2.046;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di79FonTnMinion Pro Bold Cond Italic"/>
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Regular" fPSN="k_MinionPro-Regular" stts="e_fsIn" fSty="c_Regular" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro" fFUN="c_Minion Pro" fStN="c_Regular" fPLT="k_" vers="c_Version 2.046;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di79FonTnMinion Pro Regular"/>
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Italic" fPSN="k_MinionPro-It" stts="e_fsIn" fSty="c_Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro Italic" fFUN="c_Minion Pro Italic" fStN="c_Italic" fPLT="k_" vers="c_Version 2.046;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di79FonTnMinion Pro Italic"/>
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Medium" fPSN="k_MinionPro-Medium" stts="e_fsIn" fSty="c_Medium" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro Medium" fFUN="c_Minion Pro Medium" fStN="c_Medium" fPLT="k_" vers="c_Version 2.046;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di79FonTnMinion Pro Medium"/>
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Medium Italic" fPSN="k_MinionPro-MediumIt" stts="e_fsIn" fSty="c_Medium Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro Medium Italic" fFUN="c_Minion Pro Medium Italic" fStN="c_Medium Italic" fPLT="k_" vers="c_Version 2.046;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di79FonTnMinion Pro Medium Italic"/>
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Semibold" fPSN="k_MinionPro-Semibold" stts="e_fsIn" fSty="c_Semibold" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro Semibold" fFUN="c_Minion Pro Semibold" fStN="c_Semibold" fPLT="k_" vers="c_Version 2.046;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di79FonTnMinion Pro Semibold"/>
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Semibold Italic" fPSN="k_MinionPro-SemiboldIt" stts="e_fsIn" fSty="c_Semibold Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro Semibold Italic" fFUN="c_Minion Pro Semibold Italic" fStN="c_Semibold Italic" fPLT="k_" vers="c_Version 2.046;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di79FonTnMinion Pro Semibold Italic"/>
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Bold" fPSN="k_MinionPro-Bold" stts="e_fsIn" fSty="c_Bold" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro Bold" fFUN="c_Minion Pro Bold" fStN="c_Bold" fPLT="k_" vers="c_Version 2.046;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di79FonTnMinion Pro Bold"/>
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Bold Italic" fPSN="k_MinionPro-BoldIt" stts="e_fsIn" fSty="c_Bold Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro Bold Italic" fFUN="c_Minion Pro Bold Italic" fStN="c_Bold Italic" fPLT="k_" vers="c_Version 2.046;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di79FonTnMinion Pro Bold Italic"/>
+	</fFam>
+	<fFam pnam="c_Kozuka Mincho Pro" Self="rc_di7d">
+		<FonT fFam="c_Kozuka Mincho Pro" pnam="c_Kozuka Mincho Pro EL" fPSN="k_KozMinPro-ExtraLight" stts="e_fsIn" fSty="c_EL" fnTp="e_ftOI" WSCR="l_1" fnam="c_Kozuka Mincho Pro EL" fFUN="c_小塚明朝 Pro EL" fStN="c_EL" fPLT="k_" vers="c_Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di7dFonTnKozuka Mincho Pro EL"/>
+		<FonT fFam="c_Kozuka Mincho Pro" pnam="c_Kozuka Mincho Pro L" fPSN="k_KozMinPro-Light" stts="e_fsIn" fSty="c_L" fnTp="e_ftOI" WSCR="l_1" fnam="c_Kozuka Mincho Pro L" fFUN="c_小塚明朝 Pro L" fStN="c_L" fPLT="k_" vers="c_Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di7dFonTnKozuka Mincho Pro L"/>
+		<FonT fFam="c_Kozuka Mincho Pro" pnam="c_Kozuka Mincho Pro R" fPSN="k_KozMinPro-Regular" stts="e_fsIn" fSty="c_R" fnTp="e_ftOI" WSCR="l_1" fnam="c_Kozuka Mincho Pro R" fFUN="c_小塚明朝 Pro R" fStN="c_R" fPLT="k_" vers="c_Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di7dFonTnKozuka Mincho Pro R"/>
+		<FonT fFam="c_Kozuka Mincho Pro" pnam="c_Kozuka Mincho Pro M" fPSN="k_KozMinPro-Medium" stts="e_fsIn" fSty="c_M" fnTp="e_ftOI" WSCR="l_1" fnam="c_Kozuka Mincho Pro M" fFUN="c_小塚明朝 Pro M" fStN="c_M" fPLT="k_" vers="c_Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di7dFonTnKozuka Mincho Pro M"/>
+		<FonT fFam="c_Kozuka Mincho Pro" pnam="c_Kozuka Mincho Pro B" fPSN="k_KozMinPro-Bold" stts="e_fsIn" fSty="c_B" fnTp="e_ftOI" WSCR="l_1" fnam="c_Kozuka Mincho Pro B" fFUN="c_小塚明朝 Pro B" fStN="c_B" fPLT="k_" vers="c_Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di7dFonTnKozuka Mincho Pro B"/>
+		<FonT fFam="c_Kozuka Mincho Pro" pnam="c_Kozuka Mincho Pro H" fPSN="k_KozMinPro-Heavy" stts="e_fsIn" fSty="c_H" fnTp="e_ftOI" WSCR="l_1" fnam="c_Kozuka Mincho Pro H" fFUN="c_小塚明朝 Pro H" fStN="c_H" fPLT="k_" vers="c_Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895" Self="rc_di7dFonTnKozuka Mincho Pro H"/>
+	</fFam>
+	<cfnt pnam="k_[No composite font]" Self="rc_u7b">
+		<cfen pnam="k_Kanji" font="c_Kozuka Mincho Pro" ptfs="k_R" jcfs="D_100" phzs="D_100" pvts="D_100" plck="b_t" jcfa="b_t" bshf="D_0" Self="rc_u7c"/>
+		<cfen pnam="k_Kana" font="c_Kozuka Mincho Pro" ptfs="k_R" jcfs="D_100" phzs="D_100" pvts="D_100" jcfc="c_ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" plck="b_t" jcfa="b_t" bshf="D_0" Self="rc_u7e"/>
+		<cfen pnam="k_Punctuation" font="c_Kozuka Mincho Pro" ptfs="k_R" jcfs="D_100" phzs="D_100" pvts="D_100" jcfc="c_—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" plck="b_t" jcfa="b_t" bshf="D_0" Self="rc_u7f"/>
+		<cfen pnam="k_Symbols" font="c_Kozuka Mincho Pro" ptfs="k_R" jcfs="D_100" phzs="D_100" pvts="D_100" jcfc="c_¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" plck="b_t" jcfa="b_t" bshf="D_0" Self="rc_u80"/>
+		<cfen pnam="k_Alphabetic" font="c_Minion Pro" ptfs="k_Regular" jcfs="D_100" phzs="D_100" pvts="D_100" jcfc="c_ !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^~sep~`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" plck="b_t" jcfa="b_f" bshf="D_0" Self="rc_u81"/>
+		<cfen pnam="k_Numbers" font="c_Minion Pro" ptfs="k_Regular" jcfs="D_100" phzs="D_100" pvts="D_100" jcfc="c_0123456789" plck="b_t" jcfa="b_f" bshf="D_0" Self="rc_u82"/>
+	</cfnt>
+	<csty smpt="b_f" pnam="k_[No character style]" Self="rc_u61"/>
+	<bnli pnam="k_[Default]" bncs="b_f" bncd="b_f" Self="rc_u37"/>
+	<psty pnam="k_[No paragraph style]" smpt="b_f" flcl="o_ub" ptfs="c_Regular" ptsz="U_12" phzs="D_100" pakm="k_Metrics" ligt="b_t" lnwt="U_1" trak="D_0" ptce="c_HL Composer" dcca="s_0" dcli="s_0" bshf="U_0" capm="e_norm" lncl="o_ue" hypl="s_3" pvts="D_100" inbl="U_0" inbr="U_0" infl="U_0" alea="D_120" szld="e_atil" plng="k_English: UK" hyph="b_t" mibe="s_2" miaf="s_2" hypc="b_t" swor="s_5" nobk="b_f" hyzo="U_36" spbe="U_0" spaf="U_0" undr="b_f" font="c_Minion Pro" Ofst="e_Dflt" wsde="D_100" wsma="D_133" wsmi="D_80" lsde="D_0" lsma="D_0" lsmi="D_0" gsde="D_100" gsma="D_100" gsmi="D_100" pbbp="e_nbrk" kept="b_f" kwnx="s_0" kfnl="s_2" klnl="s_2" posm="e_norm" strk="b_f" jcal="e_Jact" kepl="b_f" lint="D_-1" filt="D_-1" sovp="b_f" ovpr="b_f" pgsa="D_0" pgfa="D_0" pgsl="D_-1" pgfl="D_-1" pgss="x_2_U_0_U_0" pgst="x_2_U_0_U_0" pskw="D_0" rlac="c_Text Color" pras="D_1" prat="D_-1" paof="U_0" pral="U_0" pair="U_0" rawd="e_Klwd" rlbc="c_Text Color" prbs="D_1" prbt="D_-1" pbop="U_0" prbl="U_0" pbir="U_0" rbwd="e_Klwd" prao="b_f" prb2="b_f" prar="b_f" prbr="b_f" inlr="U_0" hylw="b_t" pals="e_full" OTor="b_f" OTfr="b_f" OTdl="b_f" OTti="b_f" patp="o_di5a29" pbtp="o_di5a29" bala="e_BlOf" ragc="o_ue" ragt="D_-1" rago="b_f" rbgc="o_ue" rbgt="D_-1" rbg2="b_f" paln="e_left" dcdm="l_1" OTPf="e_none" OTmk="b_t" hypw="s_5" OTlc="b_t" hycf="b_t" prak="b_f" igEA="b_f" OTzr="b_f" OTss="l_0" OThi="b_f" OTca="b_t" ulco="c_Text Color" ulgc="o_ue" upgo="b_f" ulgt="D_-1" ulos="U_-9999" ulop="b_f" ultt="D_-1" ulwt="U_-9999" ultp="o_di5a29" stco="c_Text Color" stgc="o_ue" stgo="b_f" stgt="D_-1" stos="U_-9999" Stvp="b_f" sttt="D_-1" sttp="o_di5a29" stwt="U_-9999" mitr="D_4" strA="e_stAO" endj="e_mjon" OTsw="b_f" tsum="D_0" jmoj="e_nada" jmbs="D_-1" jmas="D_-1" jkin="e_nada" jkit="e_Jkif" jkht="e_none" jbki="b_t" jpro="b_t" jrfs="D_-1" jral="e_Jrjs" jrtp="e_Jrpc" jrfn="k_" jrft="e_nada" jrsp="e_Jr12" jrwd="D_100" jrpt="D_100" jrxo="D_0" jryo="D_0" jrpz="e_Jkar" jraa="b_t" jrva="e_Jro1" jrov="b_f" jras="b_f" jrsc="D_66" jrfl="c_Text Color" jrti="D_-1" jrof="e_atil" jrsk="c_Text Color" jrst="D_-1" jros="e_atil" jrwt="D_-1" jktp="e_none" jkfz="D_-1" jkfn="k_" jkfs="e_nada" jkcm="D_100" jkpt="D_100" jkpl="D_0" jkal="e_Jknc" jkp2="e_Jkar" jkcc="c_" jset="e_Jchi" jkfc="c_Text Color" jktn="D_-1" jkof="e_atil" jksc="c_Text Color" jkst="D_-1" jkos="e_atil" jkwt="D_-1" jtcy="b_f" jtax="D_0" jtay="D_0" jatc="s_0" jatr="b_f" jjid="s_0" jggy="s_0" jga1="b_f" jgal="e_none" crot="D_0" jro1="b_f" jren="b_t" jshp="D_0" jsha="D_4500" jsht="b_t" jshr="b_f" jwar="b_f" jwli="s_2" jwas="D_50" jwls="D_0" jwal="e_atil" jmbb="s_2" jmab="s_2" hkna="b_f" palt="b_f" ital="b_f" Jled="e_Jlab" jslh="b_f" jpgd="b_f" jgrt="b_f" jgfm="e_none" jrtd="s_0" jrtr="b_f" jrts="b_t" jisb="b_f" jwro="b_f" bnlt="e_LTno" bnbc="x_2_e_BCuo_l_2022" bnst="l_1" DHnm="c_1, 2, 3, 4..." blfn="k_" blft="e_nada" bnnl="o_u37" bnle="l_1" bncp="b_t" bnar="b_t" bnbr="x_3_e_enap_l_0_l_0" bnbs="o_u61" bnnc="o_u61" bnba="e_left" bnna="e_left" bnne="c_^#.^t" bnta="c_^t" digi="e_dide" kash="e_kade" diap="e_dpot" cdir="e_Defd" pdir="e_L2Rd" pjus="e_pjde" diax="D_0" diay="D_0" OTol="b_f" OTsy="b_f" OTja="b_f" OTsh="b_f" kdir="e_Defd" Self="rc_u62"/>
+	<psty pnam="k_NormalParagraphStyle" basd="k_[No paragraph style]" smpt="b_f" nxpa="o_u65" kbsc="x_2_s_0_s_0" pclr="e_nada" Self="rc_u65"/>
+	<cTOC tlsl="o_u62" tlnm="c_Contents" pnam="k_DefaultTOCStyleName" runn="b_f" ichd="b_f" iBkD="b_f" crbk="b_t" styd="e_horz" tnup="e_tifp" Self="rc_u7a"/>
+	<ccst prst="o_u62" pnam="k_[None]" Self="rc_u68"/>
+	<tsty pnam="k_[No table style]" tsdo="e_sbej" TBsw="U_1" TBss="o_di5a29" TBsc="o_ub" TBst="D_100" TBso="b_f" TBgc="o_uf" TBgt="D_100" TBgo="b_f" LBsw="U_1" LBss="o_di5a29" LBsc="o_ub" LBst="D_100" LBso="b_f" LBgc="o_uf" LBgt="D_100" LBgo="b_f" BBsw="U_1" BBss="o_di5a29" BBsc="o_ub" BBst="D_100" BBso="b_f" BBgc="o_uf" BBgt="D_100" BBgo="b_f" RBsw="U_1" RBss="o_di5a29" RBsc="o_ub" RBst="D_100" RBso="b_f" RBac="o_uf" RBat="D_100" RBao="b_f" spbe="U_4" spaf="U_-4" Sfsr="l_0" Slsr="l_0" RSfc="l_0" RScf="o_ub" RSwf="U_1" RSsf="o_di5a29" RStf="D_100" RSgo="b_f" RSgc="o_uf" RSgt="D_100" RSof="b_f" RSsc="l_0" RScs="o_ub" RSws="U_0.25" RSss="o_di5a29" RSts="D_100" RSos="b_f" RSgs="o_uf" RSas="D_100" RSps="b_f" Sfsc="l_0" Slsc="l_0" CSfc="l_0" CScf="o_ub" CSwf="U_1" CSsf="o_di5a29" CStf="D_100" CSof="b_f" CSgc="o_uf" CSgt="D_100" CSgo="b_f" CSsc="l_0" CScs="o_ub" CSws="U_0.25" CSss="o_di5a29" CSts="D_100" CSos="b_f" CSgs="o_uf" CSas="D_100" CSps="b_f" CFPr="b_f" Sffr="l_0" Slfr="l_0" RFcf="o_ub" RFfc="l_0" RFtf="D_20" RFof="b_f" RFsc="l_0" RFcs="o_ue" RFts="D_100" RFos="b_f" Sffc="l_0" Slfc="l_0" CFfc="l_0" CFcf="o_ub" CFtf="D_20" CFof="b_f" CFsc="l_0" CFcs="o_ue" CFts="D_100" CFos="b_f" BrHd="b_t" BrFt="b_t" BrLc="b_t" BrRc="b_t" RsHd="o_n" RsFt="o_n" RsLc="o_n" RsRc="o_n" RsBr="o_u68" Self="rc_u6a"/>
+	<tsty pnam="k_[Basic Table]" basd="k_[No table style]" kbsc="x_2_s_0_s_0" Self="rc_u6c"/>
+	<Jngd pnam="k_[Page Grid]" Self="rc_u72">
+		<Jgda font="c_Minion Pro" ptfs="c_Regular" ptsz="U_12" Jcak="D_0" Jlak="D_9" phzs="D_100" pvts="D_100" laln="e_lltj" jgal="e_Jact" jcal="e_Jact"/>
+	</Jngd>
+	<ObSt pnam="k_[None]" prst="o_u62" flcl="o_ue" filt="D_-1" lnwt="U_0" mitr="D_4" endc="e_bcap" endj="e_mjon" stty="o_di5a29" llen="e_none" rlen="e_none" lncl="o_ue" lint="D_-1" pcrd="D_12" gapC="o_ue" gapT="D_-1" strA="e_stAC" nopr="b_f" pgfa="D_0" pgsa="D_0" Jang="o_n" pcOp="e_none" Self="rc_u73">
+		<TFPf ccnt="l_1" clgt="U_12" clwd="U_144" ufcw="b_f" inst="x_4_U_0_U_0_U_0_U_0" Fbof="e_MAso" Fboa="U_0" VJal="e_top" VJmi="U_0" iwrp="b_f"/>
+		<BfGo BFuc="b_f" BFso="U_0" BFro="e_EToi" BFic="U_12" BFcl="e_iLbl"/>
+		<cAOs AOpt="e_AOPi" AOsr="b_f" AOlp="b_f" AOpp="b_t" AOwp="e_ANbr" AOHa="e_left" AHrl="e_txtf" AOVa="e_botm" AOVr="e_AVba" AOxo="D_0" AOyo="D_0" AOya="D_0"/>
+		<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			<ccos pcot="e_sacp" iied="b_f" pcnm="k_"/>
+		</ctxw>
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_Txft" sorn="e_horz" sdir="e_Unkd"/>
+		<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+	</ObSt>
+	<ObSt basd="k_[None]" pnam="k_[Normal Graphics Frame]" prst="o_u62" osnp="b_f" obfc="b_t" obsc="b_t" obpc="b_f" obtf="b_f" obbc="b_f" oboc="b_f" obtw="b_f" obao="b_f" flcl="o_ue" filt="D_-1" lnwt="U_1" mitr="D_4" endc="e_bcap" endj="e_mjon" stty="o_di5a29" llen="e_none" rlen="e_none" lncl="o_ub" lint="D_-1" pcrd="D_12" sovp="b_f" gapC="o_ue" gapT="D_-1" strA="e_stAC" nopr="b_f" pgfa="D_0" pgsa="D_0" Jang="o_n" kbsc="x_2_s_0_s_0" obff="b_f" pcOp="e_none" obCc="b_t" Self="rc_u75">
+		<TFPf ccnt="l_1" clgt="U_12" clwd="U_144" ufcw="b_f" inst="x_4_U_0_U_0_U_0_U_0" Fbof="e_MAso" Fboa="U_0" VJal="e_top" VJmi="U_0" iwrp="b_f"/>
+		<BfGo BFuc="b_f" BFso="U_0" BFro="e_EToi" BFic="U_12" BFcl="e_iLbl"/>
+		<cAOs AOpt="e_AOPi" AOsr="b_f" AOlp="b_f" AOpp="b_t" AOwp="e_ANbr" AOHa="e_left" AHrl="e_txtf" AOVa="e_botm" AOVr="e_AVba" AOxo="D_0" AOyo="D_0" AOya="D_0"/>
+		<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			<ccos pcot="e_sacp" iied="b_f" pcnm="k_"/>
+		</ctxw>
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_Unkn" sorn="e_Unkn" sdir="e_Unkd"/>
+		<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		<ospc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+		<ossc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+		<osfc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+		<oscc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+	</ObSt>
+	<ObSt basd="k_[None]" pnam="k_[Normal Text Frame]" prst="o_u65" osnp="b_f" obfc="b_t" obsc="b_t" obpc="b_f" obtf="b_t" obbc="b_t" oboc="b_f" obtw="b_f" obao="b_f" flcl="o_ue" filt="D_-1" lnwt="U_0" mitr="D_4" endc="e_bcap" endj="e_mjon" stty="o_di5a29" llen="e_none" rlen="e_none" lncl="o_ue" lint="D_-1" pcrd="D_12" gapC="o_ue" gapT="D_-1" strA="e_stAC" nopr="b_f" pgfa="D_0" pgsa="D_0" Jang="o_n" kbsc="x_2_s_0_s_0" obff="b_f" pcOp="e_none" obCc="b_t" Self="rc_u76">
+		<TFPf ccnt="l_1" clgt="U_12" clwd="U_144" ufcw="b_f" inst="x_4_U_0_U_0_U_0_U_0" Fbof="e_MAso" Fboa="U_0" VJal="e_top" VJmi="U_0" iwrp="b_f"/>
+		<BfGo BFuc="b_f" BFso="U_0" BFro="e_EToi" BFic="U_12" BFcl="e_iLbl"/>
+		<cAOs AOpt="e_AOPi" AOsr="b_f" AOlp="b_f" AOpp="b_t" AOwp="e_ANbr" AOHa="e_left" AHrl="e_txtf" AOVa="e_botm" AOVr="e_AVba" AOxo="D_0" AOyo="D_0" AOya="D_0"/>
+		<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			<ccos pcot="e_sacp" iied="b_f" pcnm="k_"/>
+		</ctxw>
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_Txft" sorn="e_Unkn" sdir="e_Unkd"/>
+		<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		<ospc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+		<ossc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+		<osfc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+		<oscc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+	</ObSt>
+	<ObSt basd="k_[None]" pnam="k_[Normal Grid]" prst="o_u65" osnp="b_f" obfc="b_t" obsc="b_t" obpc="b_f" obtf="b_t" obbc="b_t" oboc="b_t" obtw="b_f" obao="b_f" flcl="o_ue" filt="D_-1" lnwt="U_0" mitr="D_4" endc="e_bcap" endj="e_mjon" stty="o_di5a29" llen="e_none" rlen="e_none" lncl="o_ue" lint="D_-1" pcrd="D_12" gapC="o_ue" gapT="D_-1" strA="e_stAC" nopr="b_f" pgfa="D_0" pgsa="D_0" Jang="o_n" kbsc="x_2_s_0_s_0" obff="b_f" pcOp="e_none" obCc="b_t" Self="rc_u77">
+		<TFPf ccnt="l_1" clgt="U_12" clwd="U_144" ufcw="b_f" inst="x_4_U_0_U_0_U_0_U_0" Fbof="e_MAso" Fboa="U_0" VJal="e_top" VJmi="U_0" iwrp="b_f"/>
+		<BfGo BFuc="b_f" BFso="U_0" BFro="e_EToi" BFic="U_12" BFcl="e_iLbl"/>
+		<cAOs AOpt="e_AOPi" AOsr="b_f" AOlp="b_f" AOpp="b_t" AOwp="e_ANbr" AOHa="e_left" AHrl="e_txtf" AOVa="e_botm" AOVr="e_AVba" AOxo="D_0" AOyo="D_0" AOya="D_0"/>
+		<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			<ccos pcot="e_sacp" iied="b_f" pcnm="k_"/>
+		</ctxw>
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_FGtp" sorn="e_Unkn" sdir="e_Unkd"/>
+		<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		<ospc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+		<ossc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+		<osfc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+		<oscc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+	</ObSt>
+	<trSt pnam="k_k[No Trap Preset]" tpDW="U_0.25" tpBW="U_0.5" tpJS="e_mjon" tpES="e_tpme" tpOI="b_t" tpII="b_t" tpIM="b_f" tpOB="b_t" tpIP="e_tpcn" tpST="D_10" tpBT="D_100" tpBD="D_1.6" tpSL="D_70" tpRD="D_100" Self="rc_u9d"/>
+	<trSt pnam="k_kDefaultTrapStyleName" tpDW="U_0.25" tpBW="U_0.5" tpJS="e_mjon" tpES="e_tpme" tpOI="b_t" tpII="b_t" tpIM="b_f" tpOB="b_t" tpIP="e_tpcn" tpST="D_10" tpBT="D_100" tpBD="D_1.6" tpSL="D_70" tpRD="D_100" Self="rc_u9e"/>
+	<xiPf Xits="b_t" XMis="e_XMmi" Xicl="b_f" XMrt="b_t" Xtal="b_f" Xtit="b_t" Xiws="b_f" Xtar="b_f" Xalt="b_f" Xtfn="e_Xssx" Xisp="x_0" Xict="b_t"/>
+	<xePf Xvae="b_f" Xprb="e_nada" Xefs="b_f" svFE="e_svU8" Xrub="b_f" Xdtd="b_t" Xeco="b_f" Xeoi="b_f" Xefi="b_f" Xeic="e_ibst" Xegp="e_plap" Xegi="b_f" Xejq="e_enMd" Xejf="e_jpgb" Xalt="b_f" Xtfn="e_Xssx" Xcrf="b_f" Xeut="e_Xtcs"/>
+	<xgPf XstN="c_Story" XstC="e_iBrd" XtaN="c_Table" XtaC="e_iDbl" XceN="c_Cell" XceC="e_iGgr" XimN="c_Image" XimC="e_iVlt"/>
+	<ewPf Xefi="b_f" Xeoi="b_f" Xeco="b_f" Xeic="e_ibst" Xegp="e_plap" Xegi="b_f" Xejq="e_enMd" Xejf="e_jpgb"/>
+	<xpPf xpPb="e_cRGB" xpU1="D_120" xpU2="D_30"/>
+	<xpDC>
+		<xpQa>
+			<xpQe xpBm="e_norm" xpBo="D_100" xpBk="b_f" xpBi="b_f"/>
+			<xpQf xpUp="e_none" xpBm="e_xpMb" xpBo="D_75" xpUj="U_7" xpUk="U_7" dsiz="U_5" xpUt="o_n" e0D5="D_0" sprd="D_0" xpUs="b_f" xpUr="b_t" xpU7="b_f"/>
+			<xpQg xpUp="e_none" wdwh="U_9" xpUq="e_xpCc" e0D5="D_0" xpUu="D_0"/>
+			<xpQh xpUn="b_f" xpUt="o_n" xpBm="e_xpMb" xpBo="D_75" inAn="D_120" e0D8="U_7" xpUs="b_f" xpUu="D_0" dsiz="U_7" e0D5="D_0"/>
+			<xpQi xpUn="b_f" xpBm="e_xpMc" xpBo="D_75" e0D5="D_0" xpUt="o_n" xpUo="e_xp0a" sprd="D_0" dsiz="U_7"/>
+			<xpQj xpUn="b_f" xpBm="e_xpMc" xpBo="D_75" e0D5="D_0" xpUt="o_n" xpUo="e_xp0a" sprd="D_0" dsiz="U_7" hlsc="e_xp1b"/>
+			<xpQk xpUn="b_f" xpUb="e_xp2b" xpUo="e_xp3a" xpUc="D_100" xpUd="e_Fstn" dsiz="U_7" xpUe="U_0" inAn="D_120" xpUf="D_30" xpUs="b_f" e0E4="o_n" xpUh="e_xpMc" e0E3="D_75" xpSc="o_n" xpSb="e_xpMb" xpSo="D_75"/>
+			<xpQl xpUn="b_f" xpUt="o_n" xpBm="e_xpMb" xpBo="D_50" inAn="D_120" e0D8="U_7" dsiz="U_7" xpUv="b_f"/>
+			<xpQm xpUn="b_f" xpU3="U_0" xpU4="U_0" xpU5="U_0" xpU6="U_0" xpUu="D_0" inAn="D_0" xpUw="e_en5a" e0D5="D_0"/>
+			<xpQn xpUn="b_f" grdt="e_axlg" inAn="D_0" leng="U_0" xpUx="x_2_U_0_U_0" xpUy="D_0" xpUz="U_0"/>
+		</xpQa>
+		<xpQb>
+			<xpQe xpBm="e_norm" xpBo="D_100" xpBk="b_f" xpBi="b_f"/>
+			<xpQf xpUp="e_none" xpBm="e_xpMb" xpBo="D_75" xpUj="U_7" xpUk="U_7" dsiz="U_5" xpUt="o_n" e0D5="D_0" sprd="D_0" xpUs="b_f" xpUr="b_t" xpU7="b_f"/>
+			<xpQg xpUp="e_none" wdwh="U_9" xpUq="e_xpCc" e0D5="D_0" xpUu="D_0"/>
+			<xpQh xpUn="b_f" xpUt="o_n" xpBm="e_xpMb" xpBo="D_75" inAn="D_120" e0D8="U_7" xpUs="b_f" xpUu="D_0" dsiz="U_7" e0D5="D_0"/>
+			<xpQi xpUn="b_f" xpBm="e_xpMc" xpBo="D_75" e0D5="D_0" xpUt="o_n" xpUo="e_xp0a" sprd="D_0" dsiz="U_7"/>
+			<xpQj xpUn="b_f" xpBm="e_xpMc" xpBo="D_75" e0D5="D_0" xpUt="o_n" xpUo="e_xp0a" sprd="D_0" dsiz="U_7" hlsc="e_xp1b"/>
+			<xpQk xpUn="b_f" xpUb="e_xp2b" xpUo="e_xp3a" xpUc="D_100" xpUd="e_Fstn" dsiz="U_7" xpUe="U_0" inAn="D_120" xpUf="D_30" xpUs="b_f" e0E4="o_n" xpUh="e_xpMc" e0E3="D_75" xpSc="o_n" xpSb="e_xpMb" xpSo="D_75"/>
+			<xpQl xpUn="b_f" xpUt="o_n" xpBm="e_xpMb" xpBo="D_50" inAn="D_120" e0D8="U_7" dsiz="U_7" xpUv="b_f"/>
+			<xpQm xpUn="b_f" xpU3="U_0" xpU4="U_0" xpU5="U_0" xpU6="U_0" xpUu="D_0" inAn="D_0" xpUw="e_en5a" e0D5="D_0"/>
+			<xpQn xpUn="b_f" grdt="e_axlg" inAn="D_0" leng="U_0" xpUx="x_2_U_0_U_0" xpUy="D_0" xpUz="U_0"/>
+		</xpQb>
+		<xpQc>
+			<xpQe xpBm="e_norm" xpBo="D_100" xpBk="b_f" xpBi="b_f"/>
+			<xpQf xpUp="e_none" xpBm="e_xpMb" xpBo="D_75" xpUj="U_7" xpUk="U_7" dsiz="U_5" xpUt="o_n" e0D5="D_0" sprd="D_0" xpUs="b_f" xpUr="b_t" xpU7="b_f"/>
+			<xpQg xpUp="e_none" wdwh="U_9" xpUq="e_xpCc" e0D5="D_0" xpUu="D_0"/>
+			<xpQh xpUn="b_f" xpUt="o_n" xpBm="e_xpMb" xpBo="D_75" inAn="D_120" e0D8="U_7" xpUs="b_f" xpUu="D_0" dsiz="U_7" e0D5="D_0"/>
+			<xpQi xpUn="b_f" xpBm="e_xpMc" xpBo="D_75" e0D5="D_0" xpUt="o_n" xpUo="e_xp0a" sprd="D_0" dsiz="U_7"/>
+			<xpQj xpUn="b_f" xpBm="e_xpMc" xpBo="D_75" e0D5="D_0" xpUt="o_n" xpUo="e_xp0a" sprd="D_0" dsiz="U_7" hlsc="e_xp1b"/>
+			<xpQk xpUn="b_f" xpUb="e_xp2b" xpUo="e_xp3a" xpUc="D_100" xpUd="e_Fstn" dsiz="U_7" xpUe="U_0" inAn="D_120" xpUf="D_30" xpUs="b_f" e0E4="o_n" xpUh="e_xpMc" e0E3="D_75" xpSc="o_n" xpSb="e_xpMb" xpSo="D_75"/>
+			<xpQl xpUn="b_f" xpUt="o_n" xpBm="e_xpMb" xpBo="D_50" inAn="D_120" e0D8="U_7" dsiz="U_7" xpUv="b_f"/>
+			<xpQm xpUn="b_f" xpU3="U_0" xpU4="U_0" xpU5="U_0" xpU6="U_0" xpUu="D_0" inAn="D_0" xpUw="e_en5a" e0D5="D_0"/>
+			<xpQn xpUn="b_f" grdt="e_axlg" inAn="D_0" leng="U_0" xpUx="x_2_U_0_U_0" xpUy="D_0" xpUz="U_0"/>
+		</xpQc>
+		<xpQd>
+			<xpQe xpBm="e_norm" xpBo="D_100" xpBk="b_f" xpBi="b_f"/>
+			<xpQf xpUp="e_none" xpBm="e_xpMb" xpBo="D_75" xpUj="U_7" xpUk="U_7" dsiz="U_5" xpUt="o_n" e0D5="D_0" sprd="D_0" xpUs="b_f" xpUr="b_t" xpU7="b_f"/>
+			<xpQg xpUp="e_none" wdwh="U_9" xpUq="e_xpCc" e0D5="D_0" xpUu="D_0"/>
+			<xpQh xpUn="b_f" xpUt="o_n" xpBm="e_xpMb" xpBo="D_75" inAn="D_120" e0D8="U_7" xpUs="b_f" xpUu="D_0" dsiz="U_7" e0D5="D_0"/>
+			<xpQi xpUn="b_f" xpBm="e_xpMc" xpBo="D_75" e0D5="D_0" xpUt="o_n" xpUo="e_xp0a" sprd="D_0" dsiz="U_7"/>
+			<xpQj xpUn="b_f" xpBm="e_xpMc" xpBo="D_75" e0D5="D_0" xpUt="o_n" xpUo="e_xp0a" sprd="D_0" dsiz="U_7" hlsc="e_xp1b"/>
+			<xpQk xpUn="b_f" xpUb="e_xp2b" xpUo="e_xp3a" xpUc="D_100" xpUd="e_Fstn" dsiz="U_7" xpUe="U_0" inAn="D_120" xpUf="D_30" xpUs="b_f" e0E4="o_n" xpUh="e_xpMc" e0E3="D_75" xpSc="o_n" xpSb="e_xpMb" xpSo="D_75"/>
+			<xpQl xpUn="b_f" xpUt="o_n" xpBm="e_xpMb" xpBo="D_50" inAn="D_120" e0D8="U_7" dsiz="U_7" xpUv="b_f"/>
+			<xpQm xpUn="b_f" xpU3="U_0" xpU4="U_0" xpU5="U_0" xpU6="U_0" xpUu="D_0" inAn="D_0" xpUw="e_en5a" e0D5="D_0"/>
+			<xpQn xpUn="b_f" grdt="e_axlg" inAn="D_0" leng="U_0" xpUx="x_2_U_0_U_0" xpUy="D_0" xpUz="U_0"/>
+		</xpQd>
+	</xpDC>
+	<SyPf omAL="b_f" omBZ="U_12" sgON="e_Txft" sorn="e_horz" sdir="e_L2Rd"/>
+	<TFPf ccnt="l_1" clgt="U_12" clwd="U_144" ufcw="b_f" inst="x_4_U_0_U_0_U_0_U_0" Fbof="e_MAso" Fboa="U_0" VJal="e_top" VJmi="U_0" iwrp="b_f"/>
+	<txtp typq="b_t" shhj="b_f" shkp="b_f" shsb="b_f" shcs="b_f" hlmf="b_t" mmos="b_t" pled="b_f" sups="D_58.3" supp="D_33.3" subs="D_58.3" subp="D_33.3" Smcp="D_70" lkbd="U_2" bkbd="U_2" kkbd="D_20" sinv="b_f" jwrp="b_f" awrp="b_t" zwrp="b_f" gplt="b_f" shkk="b_f" Jnvs="b_f" Jcid="b_f" sspm="b_f" dflw="b_t" apin="e_aeos" aprm="b_t" afrv="b_f" ddel="b_f"/>
+	<cTdf infl="U_0" inbl="U_0" inbr="U_0" spbe="U_0" spaf="U_0" bala="e_BlOf" paln="e_left" pals="e_full" alea="D_120" dcli="s_0" dcca="s_0" kepl="b_f" kept="b_f" kwnx="s_0" kfnl="s_2" klnl="s_2" pbbp="e_nbrk" ptce="c_HL Composer" wsmi="D_80" wsma="D_133" wsde="D_100" lsmi="D_0" lsma="D_0" lsde="D_0" gsmi="D_100" gsma="D_100" gsde="D_100" prar="b_f" prao="b_f" pras="D_1" prat="D_-1" paof="U_0" pral="U_0" pair="U_0" rawd="e_Klwd" rlac="c_Text Color" ragc="o_ue" ragt="D_-1" rago="b_f" patp="o_di5a29" prbr="b_f" prbs="D_1" prbt="D_-1" pbop="U_0" prbl="U_0" pbir="U_0" rbwd="e_Klwd" rlbc="c_Text Color" rbgc="o_ue" rbgt="D_-1" pbtp="o_di5a29" hypc="b_t" hyph="b_t" miaf="s_2" mibe="s_2" swor="s_5" hypl="s_3" hyzo="U_36" hypw="s_5" inlr="U_0" hylw="b_t" prb2="b_f" rbg2="b_f" dcdm="l_1" hycf="b_t" prak="b_f" igEA="b_f" pdir="e_L2Rd" pjus="e_pjde" prst="o_u65" crst="o_u61" font="c_Minion Pro" ptfs="c_Regular" ptsz="U_12" szld="e_atil" pakm="k_Metrics" trak="D_0" capm="e_norm" posm="e_norm" undr="b_f" strk="b_f" ligt="b_t" nobk="b_f" phzs="D_100" pvts="D_100" bshf="U_0" pskw="D_0" filt="D_-1" lint="D_-1" lnwt="U_1" sovp="b_f" ovpr="b_f" Ofst="e_Dflt" OTor="b_f" OTfr="b_f" OTdl="b_f" OTti="b_f" OTca="b_f" OTsw="b_f" ulco="c_Text Color" ulgc="o_ue" ultt="D_-1" ulgt="D_-1" ulop="b_f" upgo="b_f" ultp="o_di5a29" ulos="U_-9999" ulwt="U_-9999" stco="c_Text Color" stgc="o_ue" sttt="D_-1" stgt="D_-1" Stvp="b_f" stgo="b_f" sttp="o_di5a29" stos="U_-9999" stwt="U_-9999" flcl="o_ub" lncl="o_ue" plng="k_English: UK" OTzr="b_f" OThi="b_f" OTss="l_0" pgfl="D_-1" pgfa="D_0" pgsl="D_-1" pgsa="D_0" pgst="x_2_U_0_U_0" pgss="x_2_U_0_U_0" OTmk="b_t" OTlc="b_t" OTPf="e_none" mitr="D_4" strA="e_stAO" endj="e_mjon" OTol="b_f" OTsy="b_f" OTja="b_f" OTsh="b_f" cdir="e_Defd" kdir="e_Defd" digi="e_dide" kash="e_kade" diap="e_dpot" diax="D_0" diay="D_0" Jang="o_n" jcal="e_Jact" tsum="D_0" jmbs="D_-1" jmas="D_-1" crot="D_0" jjid="s_0" jshp="D_0" jsha="D_4500" jshr="b_f" jsht="b_t" jtcy="b_f" jtax="D_0" jtay="D_0" jkfc="c_Text Color" jksc="c_Text Color" jktn="D_-1" jkst="D_-1" jkwt="D_-1" jkof="e_atil" jkos="e_atil" jktp="e_none" jkpl="D_0" jkal="e_Jknc" jkp2="e_Jkar" jkfn="k_" jkfs="e_nada" jkfz="D_-1" jkcm="D_100" jkpt="D_100" jkcc="c_" jset="e_Jchi" jrfl="c_Text Color" jrsk="c_Text Color" jrti="D_-1" jrwt="D_-1" jrof="e_atil" jros="e_atil" jrst="D_-1" jrfn="k_" jrft="e_nada" jrfs="D_-1" jpro="b_t" jrwd="D_100" jrpt="D_100" jrtp="e_Jrpc" jral="e_Jrjs" jrpz="e_Jkar" jrxo="D_0" jryo="D_0" jrsp="e_Jr12" jraa="b_t" jrov="b_f" jras="b_f" jrsc="D_66" jrva="e_Jro1" jwar="b_f" jwas="D_50" jwli="s_2" jwls="D_0" jwal="e_atil" jmab="s_2" jmbb="s_2" palt="b_f" hkna="b_f" ital="b_f" jslh="b_f" jgrt="b_f" jgfm="e_none" jrtd="s_0" jrtr="b_f" jrts="b_t" jga1="b_f" jgal="e_none" jggy="s_0" jatc="s_0" jatr="b_f" jkin="e_nada" jkit="e_Jkif" jkht="e_none" jbki="b_t" jmoj="e_nada" jren="b_t" jro1="b_f" Jled="e_Jlab" jpgd="b_f" jisb="b_f" jwro="b_f" bnlt="e_LTno" bnbc="x_2_e_BCuo_l_2022" blfn="k_" blft="e_nada" bnbs="o_u61" bnnc="o_u61" bnne="c_^#.^t" bnta="c_^t" bnnl="o_u37" bnle="l_1" DHnm="c_1, 2, 3, 4..." bncp="b_t" bnst="l_1" bnar="b_t" bnba="e_left" bnna="e_left" bnbr="x_3_e_enap_l_0_l_0"/>
+	<dctp dpcu="e_both" dpmu="b_f" dprc="b_t"/>
+	<cAOd AOct="e_unas" AOht="D_72" AOwd="D_72" AOps="o_u62" AOos="o_u73"/>
+	<cAOs AOpt="e_AOPi" AOsr="b_f" AOlp="b_f" AOpp="b_t" AOwp="e_ANbr" AOHa="e_left" AHrl="e_txtf" AOVa="e_top" AOVr="e_AVba" AOxo="D_0" AOyo="D_0" AOya="D_0"/>
+	<BfGo BFuc="b_f" BFso="U_0" BFro="e_EToi" BFic="U_12" BFcl="e_iLbl"/>
+	<FNop FNns="e_Marb" FNsa="l_1" FNrn="e_Fdrs" FNps="e_Fpsn" FNpr="c_" FNsu="c_" FNap="o_u65" FNac="o_u61" FNmp="e_FmSp" FNsp="c_&#x9;" FNsb="U_0" FNsh="U_0" FNfm="e_MLdo" FNfo="U_0" FNpl="b_f" FNds="b_f" FNn0="b_t" FNty="o_di5a29" FNsw="U_1" FNnc="o_ub" FNrg="o_ue" FNrt="D_100" FNgt="D_100" FNgo="b_f" FNnv="b_f" FNli="U_0" FNri="U_72" FNro="U_0" FNc0="b_t" FNcy="o_di5a29" FNcw="U_1" FNcc="o_ub" FNcg="o_ue" FNct="D_100" FNc4="D_100" FNcv="b_f" FNc3="b_f" FNci="U_0" FNcr="U_288" FNco="U_0"/>
+	<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+		<ccos pcot="e_sacp" iied="b_f" pcnm="k_"/>
+	</ctxw>
+	<docp phgt="U_1024" pwdt="U_1280" cclr="e_iVlt" mclr="e_iMgn" nump="l_1" ppsd="b_f" bldt="U_0" bldb="U_0" bldi="U_0" bldo="U_0" bldu="b_t" slgt="U_0" slgb="U_0" slgi="U_0" slgo="U_0" slgu="b_f" PrSl="b_t" Shfl="b_t" oprb="b_t" pbin="e_ltrb" cold="e_horz" clok="b_t" MsTx="b_f" suol="b_f"/>
+	<grdp gsho="b_f" grto="b_f" Hgdv="U_72" Vgdv="U_72" Hgsd="l_8" Vgsd="l_8" grdc="e_iLgr" GrDb="b_t" blsn="b_f" blst="U_36" bldv="U_12" blvl="D_75" blcl="e_iLbl" grlo="e_ENgt"/>
+	<gudp gdib="b_f" gdsh="b_t" gdlk="b_f" gdto="b_t" gvth="D_5" gudc="e_iCyn"/>
+	<imgp colc="l_10" colg="U_20" mart="U_0" marb="U_0" marl="U_170" marr="U_170" cold="e_horz"/>
+	<pbdp PBbr="U_72" PBbk="e_iLgr" PBbc="e_iFie" PBsc="e_iGbl"/>
+	<viwp sntz="l_4" keyn="U_0.70866141732283" hunt="e_zpic" vunt="e_zpic" RCtp="e_RCSo" srul="b_t" sfre="b_t" tunt="e_zpoi" tsnt="e_zpoi" pdnt="e_zmms" lunt="e_zpoi" ptin="D_72" hrcp="D_12" vecp="D_12" SHNt="b_t"/>
+	<prnp Rprt="e_psfl" ppd="e_deid" RpFn="f_" lwcp="l_1" lwcl="b_f" Rrvr="b_f" oeb="e_all" Rspd="b_f" Rpmp="b_f" Rpnp="b_f" Rblk="b_f" Rpgg="b_f" Rpsz="e_PSDr" Rpht="e_atil" Rpwd="e_atil" Rpof="U_0" Rpgp="U_0" RpTv="b_f" RpOr="e_wide" RpCt="e_cntN" RScm="e_scxy" swdp="D_100" shtp="D_100" RpSP="b_t" RpTn="b_f" RpTp="e_t1x2" RpTt="b_f" tilt="e_atil" tilo="D_108" apm="b_f" crpm="b_f" bldm="b_f" regm="b_f" colb="b_f" pifo="b_f" RpMt="e_Dflt" RpMw="e_250p" Rpmo="U_6" RpDB="b_t" RpBt="U_0" RpBb="U_0" RpBi="U_0" RpBo="U_0" RpIS="b_f" RpCm="e_cmCK" RpTB="b_f" trpe="e_OFF" RpFp="e_none" RpNe="b_f" RpSc="e_Dflt" RpCA="D_45" RpCF="D_70" RpSO="b_f" RPCI="b_t" RCIA="D_75" RCIF="D_70" RPMI="b_t" RMIA="D_15" RMIF="D_70" RPYI="b_t" RYIA="D_0" RYIF="D_70" RPBI="b_t" RBIA="D_45" RBIF="D_70" simd="e_nsmp" fndl="e_whle" RpPF="b_t" RpPL="e_PSL3" RpDF="e_Bnry" RCSP="e_uDoc" RpPr="e_uDoc" RpCr="e_Dflt" RCin="e_RIac" odir="b_f" omte="b_f" omtp="b_f" omtb="b_f" RpFS="k_kFlSt~sep~MediumDefaultName" igSO="b_f" pcty="e_prna" Rpdt="l_0" Rppt="l_2" ppdf="k_" Rptd="b_t" Rppr="k_" Rpre="D_1200" RpSR="x_4_D_0_D_0_D_0_D_0" RpIR="x_4_D_0_D_0_D_0_D_0" RpSS="k_" RpHR="x_2_D_0_D_0" RpWR="x_2_D_0_D_0" RpOR="x_2_D_0_D_0" RpSs="k_" RpCs="k_kDefault" RSIA="D_45" RSIF="D_70" RpBC="b_f" RpCn="b_t" bmpr="b_t" bmrz="l_12c" RpLR="e_vprL" Rsty="e_Dflt"/>
+	<CPrB pcty="e_prna" BBTy="e_B2SS" BSBP="U_0" BBBP="U_0" BCrp="U_0" BSgS="e_BS04" dmTM="U_36" dmBM="U_36" dmLM="U_36" dmRM="U_36" BAAM="b_t" BChM="b_f" BPBS="b_t"/>
+	<CPBP Rprs="rx_0" Rpds="rx_0" Rpss="rx_0" RpSL="rx_0" Rprt="e_psfl" ppd="e_deid" RpFn="f_" lwcp="l_1" lwcl="b_f" Rrvr="b_f" Rpnp="b_f" Rblk="b_f" Rpgg="b_f" Rpsz="e_PSDr" Rpht="e_atil" Rpwd="e_atil" Rpof="U_0" Rpgp="U_0" RpTv="b_f" RpOr="e_wide" RpCt="e_cntN" RScm="e_scxy" swdp="D_100" shtp="D_100" RpSP="b_t" RpLR="e_vprL" apm="b_f" crpm="b_f" bldm="b_f" regm="b_f" colb="b_f" pifo="b_f" RpMt="e_Dflt" RpMw="e_250p" Rpmo="U_6" RpDB="b_t" RpBt="U_0" RpBb="U_0" RpBi="U_0" RpBo="U_0" RpBC="b_f" RpCm="e_cmCK" RpTB="b_f" trpe="e_OFF" RpFp="e_none" RpNe="b_f" RpSc="e_Dflt" RpCA="D_45" RpCF="D_70" RpSO="b_f" RPCI="b_t" RCIA="D_75" RCIF="D_70" RPMI="b_t" RMIA="D_15" RMIF="D_70" RPYI="b_t" RYIA="D_0" RYIF="D_70" RPBI="b_t" RBIA="D_45" RBIF="D_70" simd="e_nsmp" fndl="e_whle" RpPF="b_t" RpPL="e_PSL3" RpDF="e_Bnry" RCSP="e_uDoc" RpPr="e_uDoc" RpCr="e_Dflt" RCin="e_RIac" RpCn="b_t" odir="b_f" omte="b_f" omtp="b_f" omtb="b_f" RpFS="k_kFlSt~sep~MediumDefaultName" igSO="b_f" bmpr="b_t" bmrz="l_12c" Rsty="e_Dflt" Rpdt="l_0" Rppt="l_2" ppdf="k_" Rptd="b_t" Rppr="k_" Rpre="D_1200" RpSR="x_4_D_0_D_0_D_0_D_0" RpIR="x_4_D_0_D_0_D_0_D_0" RpSS="k_" RpHR="x_2_D_0_D_0" RpWR="x_2_D_0_D_0" RpOR="x_2_D_0_D_0" RpSs="k_" RpCs="k_kDefault" RSIA="D_45" RSIF="D_70"/>
+	<cMep>
+		<pcnt><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.2.2-c063 53.352624, 2008/07/30-18:05:41        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:format>application/x-indesign</dc:format>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+         <xmp:CreatorTool>Adobe InDesign 6.0</xmp:CreatorTool>
+         <xmp:CreateDate>2010-09-27T13:57:59-05:00</xmp:CreateDate>
+         <xmp:MetadataDate>2010-09-27T13:57:59-05:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2010-09-27T13:57:59-05:00</xmp:ModifyDate>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
+         <xmpMM:InstanceID>xmp.iid:0280117407206811994CE643F67D787C</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:0280117407206811994CE643F67D787C</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:0280117407206811994CE643F67D787C</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>created</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:0280117407206811994CE643F67D787C</stEvt:instanceID>
+                  <stEvt:when>2010-09-27T13:57:59-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <xmpMM:RenditionClass>default</xmpMM:RenditionClass>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>]]></pcnt>
+	</cMep>
+	<cOpt tlnm="c_Index" tlsl="o_u62" ReIx="b_t" iBkD="b_f" iHEs="b_f" IdxF="e_NtIf" iSHs="b_t" iEiS="b_f" lOst="o_u62" lTws="o_u62" lThs="o_u62" lFst="o_u62" sHst="o_u62" pnSt="o_u61" crSt="o_u61" crTS="o_u61" ftSp="c_  " beSp="c_; " prSp="c_^=" pnSp="c_, " crSp="c_. " eeSp="c_"/>
+	<cIhs HSnm="k_" HSlg="l_100" HShc="l_1303a" HSgv="l_0" HSov="l_0" HSgl="x_a_c_kIndexGroup~sep~Symbol_k_kIndexGroup~sep~Symbol_k__b_f_x_4_k__k__k_kIndexSection~sep~Symbol_l_100_k_IDX~sep~Basic_k_kIndexGroup~sep~Alphabet_k__b_f_x_68_k_A_k__k_kIndexSection~sep~A_l_100_k_B_k__k_kIndexSection~sep~B_l_100_k_C_k__k_kIndexSection~sep~C_l_100_k_D_k__k_kIndexSection~sep~D_l_100_k_E_k__k_kIndexSection~sep~E_l_100_k_F_k__k_kIndexSection~sep~F_l_100_k_G_k__k_kIndexSection~sep~G_l_100_k_H_k__k_kIndexSection~sep~H_l_100_k_I_k__k_kIndexSection~sep~I_l_100_k_J_k__k_kIndexSection~sep~J_l_100_k_K_k__k_kIndexSection~sep~K_l_100_k_L_k__k_kIndexSection~sep~L_l_100_k_M_k__k_kIndexSection~sep~M_l_100_k_N_k__k_kIndexSection~sep~N_l_100_k_O_k__k_kIndexSection~sep~O_l_100_k_P_k__k_kIndexSection~sep~P_l_100_k_Q_k__k_kIndexSection~sep~Q_l_100_k_R_k__k_kIndexSection~sep~R_l_100_k_S_k__k_kIndexSection~sep~S_l_100_k_T_k__k_kIndexSection~sep~T_l_100_k_U_k__k_kIndexSection~sep~U_l_100_k_V_k__k_kIndexSection~sep~V_l_100_k_W_k__k_kIndexSection~sep~W_l_100_k_X_k__k_kIndexSection~sep~X_l_100_k_Y_k__k_kIndexSection~sep~Y_l_100_k_Z_k__k_kIndexSection~sep~Z_l_100"/>
+	<cPID agos="o_u75" atos="o_u76" aGos="o_u77" flcl="o_ue" filt="D_-1" lnwt="U_1" mitr="D_4" endc="e_bcap" endj="e_mjon" stty="o_di5a29" llen="e_none" rlen="e_none" lncl="o_ue" lint="D_-1" pcOp="e_none" pcrd="D_12" pgfa="D_0" pgsa="D_0" gapC="o_ue" gapT="D_-1" strA="e_stAC" nopr="b_f">
+	</cPID>
+	<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+	<btnp pnam="k_" snam="k_"/>
+	<tinD gaiM="m_FFFFFFFF0000000000000000&gt;">
+		<pcnt><![CDATA[AAAAAA==]]></pcnt>
+	</tinD>
+	<ctOp scdI="e_eCIs" apCS="o_n"/>
+	<Jcpg font="c_Minion Pro" ptfs="c_Regular" ptsz="U_12" Jcak="D_0" Jlak="D_9" phzs="D_100" pvts="D_100"/>
+	<Jcsg font="c_Minion Pro" ptfs="c_Regular" ptsz="U_12" Jcak="D_0" Jlak="D_9" phzs="D_100" pvts="D_100" laln="e_lltj" jgal="e_Jact" jcal="e_Jact" Jgdv="e_jGgv" Jgcc="e_botm" Jgcz="D_9.21259842519685"/>
+	<Jgpf Jgsa="b_f" Jgsf="b_t" Jgms="D_50" Jstp="b_f" Jgci="e_iGdg" Jcen="s_a" Jslc="b_t" Jicf="b_f" Jucc="b_f" Jscc="b_t"/>
+	<Jmui jmus="s_3fff"/>
+	<cnpo cnpr="l_1" cnSo="e_cncp" cnfp="c_1, 2, 3, 4..."/>
+	<cdmo dmFI="e_dmPr" dmCI="b_f" dmLI="b_t" dmRB="b_f" dmCN="b_f" dmDS="l_32"/>
+	<Ladp EnLA="b_f" LASZ="U_2" LAGR="b_t" LAGM="b_t" LAGA="b_f" LAOL="b_t"/>
+	<SPtv pnam="c_&lt;?AID 001b?&gt;TV XRefChapterNumber" TVbt="e_TVcn" Self="rc_dSPtvn&lt;?AID 001b?&gt;TV XRefChapterNumber"/>
+	<SPtv pnam="c_&lt;?AID 001b?&gt;TV XRefPageNumber" TVbt="e_TVxr" Self="rc_dSPtvn&lt;?AID 001b?&gt;TV XRefPageNumber"/>
+	<SPtv pnam="c_Chapter Number" TVbt="e_cntp" Self="rc_dSPtvnChapter Number">
+		<TVPn TVtb="c_" Mdft="e_Mcur" TVta="c_"/>
+	</SPtv>
+	<SPtv pnam="c_Creation Date" TVbt="e_TVcd" Self="rc_dSPtvnCreation Date">
+		<TVPd TVtb="c_" Mdft="c_dd/MM/yy" TVta="c_"/>
+	</SPtv>
+	<SPtv pnam="c_File Name" TVbt="e_TVfn" Self="rc_dSPtvnFile Name">
+		<TVPf TVtb="c_" TVep="b_f" TVee="b_f" TVta="c_"/>
+	</SPtv>
+	<SPtv pnam="c_Image Name" TVbt="e_TVct" Self="rc_dSPtvnImage Name">
+		<TVPc>
+			<pcnt><![CDATA[]]></pcnt>
+		</TVPc>
+	</SPtv>
+	<SPtv pnam="c_Last Page Number" TVbt="e_TVtp" Self="rc_dSPtvnLast Page Number">
+		<TVPl TVtb="c_" Mdft="e_Mcur" TVta="c_" TVsc="e_CSse"/>
+	</SPtv>
+	<SPtv pnam="c_Modification Date" TVbt="e_TVmd" Self="rc_dSPtvnModification Date">
+		<TVPd TVtb="c_" Mdft="c_d MMMM yyyy h:mm aa" TVta="c_"/>
+	</SPtv>
+	<SPtv pnam="c_Output Date" TVbt="e_TVod" Self="rc_dSPtvnOutput Date">
+		<TVPd TVtb="c_" Mdft="c_dd/MM/yy" TVta="c_"/>
+	</SPtv>
+	<SPtv pnam="c_Running Header" TVbt="e_TVpS" Self="rc_dSPtvnRunning Header">
+		<TVPr TVtb="c_" TVta="c_" prst="o_u65" TVss="e_SAfp" TVcc="e_none" TVde="b_f"/>
+	</SPtv>
+	<tagX pnam="c_Root" XTCr="e_iLbl" Self="rc_ua2"/>
+	<layr pnam="c_16 Grid" pvis="b_t" plck="b_t" lcol="e_iRed" iwrp="b_f" sogd="b_t" lkgd="b_t" uilr="b_t" exlr="b_t" prta="b_f" Self="rc_ua3"/>
+	<layr pnam="c_Layer 1" pvis="b_t" plck="b_f" lcol="e_iLbl" iwrp="b_f" sogd="b_t" lkgd="b_f" uilr="b_t" exlr="b_t" prta="b_t" Self="rc_ude"/>
+	<mspr ITra="x_6_D_1_D_0_D_0_D_1_D_0_D_0" pnam="rc_16-Grid" npfx="c_16" nmbs="c_Grid" smsi="b_t" PagC="l_1" ovpp="x_0" Self="rc_ua4">
+		<page pnam="rc_16" pgTs="o_u9e" pmas="o_n" ovrl="x_0" TOpp="y_0" Jgsp="e_gsto" Jumg="b_t" Self="rc_ua9">
+			<imgp colc="l_10" colg="U_20" mart="U_0" marb="U_0" marl="U_170" marr="U_170" cold="e_horz" cpos="x_20_U_0_U_40_U_60_U_100_U_120_U_160_U_180_U_220_U_240_U_280_U_300_U_340_U_360_U_400_U_420_U_460_U_480_U_520_U_540_U_580_U_600_U_640_U_660_U_700_U_720_U_760_U_780_U_820_U_840_U_880_U_900_U_940"/>
+			<guid gcol="e_iCyn" gort="e_vert" loca="U_160" issh="b_f" vthr="D_5" plck="b_f" pilr="o_ua3" pgdx="rs_0" Self="rc_ue4"/>
+			<guid gcol="e_iCyn" gort="e_vert" loca="U_1120" issh="b_f" vthr="D_5" plck="b_f" pilr="o_ua3" pgdx="rs_0" Self="rc_ue3"/>
+			<Jgda font="c_Minion Pro" ptfs="c_Regular" ptsz="U_12" Jcak="D_0" Jlak="D_9" phzs="D_100" pvts="D_100" laln="e_lltj" jgal="e_Jact" jcal="e_Jact"/>
+		</page>
+		<crec sTtl="k_" IGeo="x_19_l_1_l_4_l_2_D_-469.5_D_-511.5_l_2_D_-469.5_D_512.5_l_2_D_-429.5_D_512.5_l_2_D_-429.5_D_-511.5_b_f_D_-469.5_D_-511.5_D_-429.5_D_512.5_D_1_D_0_D_0_D_1_D_-0.5_D_-0.5000000000000568" cntt="e_unas" ovbl="b_t" aobs="o_u75" STof="ro_n" flcl="o_ub9" lnwt="U_0" lncl="o_ue" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_ua3" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" Self="rc_ue5">
+			<xpQa>
+				<xpQe xpBo="D_10"/>
+			</xpQa>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+			<icEo inGP="b_t" inAR="b_f"/>
+			<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		</crec>
+		<crec sTtl="k_" IGeo="x_19_l_1_l_4_l_2_D_-469.5_D_-511.5_l_2_D_-469.5_D_512.5_l_2_D_-429.5_D_512.5_l_2_D_-429.5_D_-511.5_b_f_D_-469.5_D_-511.5_D_-429.5_D_512.5_D_1_D_0_D_0_D_1_D_59.5_D_-0.5000000000000568" cntt="e_unas" ovbl="b_t" aobs="o_u75" STof="ro_n" flcl="o_uba" lnwt="U_0" lncl="o_ue" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_ua3" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" Self="rc_ue6">
+			<xpQa>
+				<xpQe xpBo="D_10"/>
+			</xpQa>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+			<icEo inGP="b_t" inAR="b_f"/>
+			<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		</crec>
+		<crec sTtl="k_" IGeo="x_19_l_1_l_4_l_2_D_-469.5_D_-511.5_l_2_D_-469.5_D_512.5_l_2_D_-429.5_D_512.5_l_2_D_-429.5_D_-511.5_b_f_D_-469.5_D_-511.5_D_-429.5_D_512.5_D_1_D_0_D_0_D_1_D_119.5_D_-0.49999999999994316" cntt="e_unas" ovbl="b_t" aobs="o_u75" STof="ro_n" flcl="o_ubb" lnwt="U_0" lncl="o_ue" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_ua3" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" Self="rc_ue7">
+			<xpQa>
+				<xpQe xpBo="D_10"/>
+			</xpQa>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+			<icEo inGP="b_t" inAR="b_f"/>
+			<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		</crec>
+		<crec sTtl="k_" IGeo="x_19_l_1_l_4_l_2_D_-469.5_D_-511.5_l_2_D_-469.5_D_512.5_l_2_D_-429.5_D_512.5_l_2_D_-429.5_D_-511.5_b_f_D_-469.5_D_-511.5_D_-429.5_D_512.5_D_1_D_0_D_0_D_1_D_179.5_D_-0.49999999999994316" cntt="e_unas" ovbl="b_t" aobs="o_u75" STof="ro_n" flcl="o_ubc" lnwt="U_0" lncl="o_ue" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_ua3" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" Self="rc_ue8">
+			<xpQa>
+				<xpQe xpBo="D_10"/>
+			</xpQa>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+			<icEo inGP="b_t" inAR="b_f"/>
+			<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		</crec>
+		<crec sTtl="k_" IGeo="x_19_l_1_l_4_l_2_D_-469.5_D_-511.5_l_2_D_-469.5_D_512.5_l_2_D_-429.5_D_512.5_l_2_D_-429.5_D_-511.5_b_f_D_-469.5_D_-511.5_D_-429.5_D_512.5_D_1_D_0_D_0_D_1_D_239.5_D_-0.5000000000001137" cntt="e_unas" ovbl="b_t" aobs="o_u75" STof="ro_n" flcl="o_ubd" lnwt="U_0" lncl="o_ue" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_ua3" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" Self="rc_ue9">
+			<xpQa>
+				<xpQe xpBo="D_10"/>
+			</xpQa>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+			<icEo inGP="b_t" inAR="b_f"/>
+			<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		</crec>
+		<crec sTtl="k_" IGeo="x_19_l_1_l_4_l_2_D_-469.5_D_-511.5_l_2_D_-469.5_D_512.5_l_2_D_-429.5_D_512.5_l_2_D_-429.5_D_-511.5_b_f_D_-469.5_D_-511.5_D_-429.5_D_512.5_D_1_D_0_D_0_D_1_D_299.5_D_-0.5000000000001137" cntt="e_unas" ovbl="b_t" aobs="o_u75" STof="ro_n" flcl="o_ube" lnwt="U_0" lncl="o_ue" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_ua3" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" Self="rc_uea">
+			<xpQa>
+				<xpQe xpBo="D_10"/>
+			</xpQa>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+			<icEo inGP="b_t" inAR="b_f"/>
+			<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		</crec>
+		<crec sTtl="k_" IGeo="x_19_l_1_l_4_l_2_D_-469.5_D_-511.5_l_2_D_-469.5_D_512.5_l_2_D_-429.5_D_512.5_l_2_D_-429.5_D_-511.5_b_f_D_-469.5_D_-511.5_D_-429.5_D_512.5_D_1_D_0_D_0_D_1_D_359.5_D_-0.5" cntt="e_unas" ovbl="b_t" aobs="o_u75" STof="ro_n" flcl="o_ubf" lnwt="U_0" lncl="o_ue" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_ua3" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" Self="rc_ueb">
+			<xpQa>
+				<xpQe xpBo="D_10"/>
+			</xpQa>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+			<icEo inGP="b_t" inAR="b_f"/>
+			<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		</crec>
+		<crec sTtl="k_" IGeo="x_19_l_1_l_4_l_2_D_-469.5_D_-511.5_l_2_D_-469.5_D_512.5_l_2_D_-429.5_D_512.5_l_2_D_-429.5_D_-511.5_b_f_D_-469.5_D_-511.5_D_-429.5_D_512.5_D_1_D_0_D_0_D_1_D_419.50000000000006_D_-0.5" cntt="e_unas" ovbl="b_t" aobs="o_u75" STof="ro_n" flcl="o_uc0" lnwt="U_0" lncl="o_ue" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_ua3" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" Self="rc_uec">
+			<xpQa>
+				<xpQe xpBo="D_10"/>
+			</xpQa>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+			<icEo inGP="b_t" inAR="b_f"/>
+			<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		</crec>
+		<crec sTtl="k_" IGeo="x_19_l_1_l_4_l_2_D_-469.5_D_-511.5_l_2_D_-469.5_D_512.5_l_2_D_-429.5_D_512.5_l_2_D_-429.5_D_-511.5_b_f_D_-469.5_D_-511.5_D_-429.5_D_512.5_D_1_D_0_D_0_D_1_D_479.5_D_-0.5000000000000568" cntt="e_unas" ovbl="b_t" aobs="o_u75" STof="ro_n" flcl="o_uc1" lnwt="U_0" lncl="o_ue" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_ua3" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" Self="rc_ued">
+			<xpQa>
+				<xpQe xpBo="D_10"/>
+			</xpQa>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+			<icEo inGP="b_t" inAR="b_f"/>
+			<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		</crec>
+		<crec sTtl="k_" IGeo="x_19_l_1_l_4_l_2_D_-469.5_D_-511.5_l_2_D_-469.5_D_512.5_l_2_D_-429.5_D_512.5_l_2_D_-429.5_D_-511.5_b_f_D_-469.5_D_-511.5_D_-429.5_D_512.5_D_1_D_0_D_0_D_1_D_539.5_D_-0.5000000000000568" cntt="e_unas" ovbl="b_t" aobs="o_u75" STof="ro_n" flcl="o_uc2" lnwt="U_0" lncl="o_ue" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_ua3" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" Self="rc_uee">
+			<xpQa>
+				<xpQe xpBo="D_10"/>
+			</xpQa>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+			<icEo inGP="b_t" inAR="b_f"/>
+			<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		</crec>
+		<crec sTtl="k_" IGeo="x_19_l_1_l_4_l_2_D_-469.5_D_-511.5_l_2_D_-469.5_D_512.5_l_2_D_-429.5_D_512.5_l_2_D_-429.5_D_-511.5_b_f_D_-469.5_D_-511.5_D_-429.5_D_512.5_D_1_D_0_D_0_D_1_D_599.5_D_-0.49999999999994316" cntt="e_unas" ovbl="b_t" aobs="o_u75" STof="ro_n" flcl="o_uc3" lnwt="U_0" lncl="o_ue" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_ua3" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" Self="rc_uef">
+			<xpQa>
+				<xpQe xpBo="D_10"/>
+			</xpQa>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+			<icEo inGP="b_t" inAR="b_f"/>
+			<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		</crec>
+		<crec sTtl="k_" IGeo="x_19_l_1_l_4_l_2_D_-469.5_D_-511.5_l_2_D_-469.5_D_512.5_l_2_D_-429.5_D_512.5_l_2_D_-429.5_D_-511.5_b_f_D_-469.5_D_-511.5_D_-429.5_D_512.5_D_1_D_0_D_0_D_1_D_659.5_D_-0.49999999999994316" cntt="e_unas" ovbl="b_t" aobs="o_u75" STof="ro_n" flcl="o_uc4" lnwt="U_0" lncl="o_ue" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_ua3" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" Self="rc_uf0">
+			<xpQa>
+				<xpQe xpBo="D_10"/>
+			</xpQa>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+			<icEo inGP="b_t" inAR="b_f"/>
+			<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		</crec>
+		<crec sTtl="k_" IGeo="x_19_l_1_l_4_l_2_D_-469.5_D_-511.5_l_2_D_-469.5_D_512.5_l_2_D_-429.5_D_512.5_l_2_D_-429.5_D_-511.5_b_f_D_-469.5_D_-511.5_D_-429.5_D_512.5_D_1_D_0_D_0_D_1_D_719.5_D_-0.5000000000001137" cntt="e_unas" ovbl="b_t" aobs="o_u75" STof="ro_n" flcl="o_uc5" lnwt="U_0" lncl="o_ue" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_ua3" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" Self="rc_uf1">
+			<xpQa>
+				<xpQe xpBo="D_10"/>
+			</xpQa>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+			<icEo inGP="b_t" inAR="b_f"/>
+			<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		</crec>
+		<crec sTtl="k_" IGeo="x_19_l_1_l_4_l_2_D_-469.5_D_-511.5_l_2_D_-469.5_D_512.5_l_2_D_-429.5_D_512.5_l_2_D_-429.5_D_-511.5_b_f_D_-469.5_D_-511.5_D_-429.5_D_512.5_D_1_D_0_D_0_D_1_D_779.5_D_-0.5000000000001137" cntt="e_unas" ovbl="b_t" aobs="o_u75" STof="ro_n" flcl="o_uc6" lnwt="U_0" lncl="o_ue" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_ua3" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" Self="rc_uf2">
+			<xpQa>
+				<xpQe xpBo="D_10"/>
+			</xpQa>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+			<icEo inGP="b_t" inAR="b_f"/>
+			<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		</crec>
+		<crec sTtl="k_" IGeo="x_19_l_1_l_4_l_2_D_-469.5_D_-511.5_l_2_D_-469.5_D_512.5_l_2_D_-429.5_D_512.5_l_2_D_-429.5_D_-511.5_b_f_D_-469.5_D_-511.5_D_-429.5_D_512.5_D_1_D_0_D_0_D_1_D_839.5_D_-0.5" cntt="e_unas" ovbl="b_t" aobs="o_u75" STof="ro_n" flcl="o_uc7" lnwt="U_0" lncl="o_ue" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_ua3" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" Self="rc_uf3">
+			<xpQa>
+				<xpQe xpBo="D_10"/>
+			</xpQa>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+			<icEo inGP="b_t" inAR="b_f"/>
+			<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		</crec>
+		<crec sTtl="k_" IGeo="x_19_l_1_l_4_l_2_D_-469.5_D_-511.5_l_2_D_-469.5_D_512.5_l_2_D_-429.5_D_512.5_l_2_D_-429.5_D_-511.5_b_f_D_-469.5_D_-511.5_D_-429.5_D_512.5_D_1_D_0_D_0_D_1_D_899.5_D_-0.5" cntt="e_unas" ovbl="b_t" aobs="o_u75" STof="ro_n" flcl="o_uc8" lnwt="U_0" lncl="o_ue" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_ua3" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" Self="rc_uf4">
+			<xpQa>
+				<xpQe xpBo="D_10"/>
+			</xpQa>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+			<icEo inGP="b_t" inAR="b_f"/>
+			<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		</crec>
+	</mspr>
+	<sprd fsSo="e_Dflt" smsi="b_t" PagC="l_1" BnLc="l_0" Shfl="b_t" ITra="x_6_D_1_D_0_D_0_D_1_D_0_D_0" PgTT="e_none" PgTD="e_ptNA" PgTA="e_enMd" Self="rc_uf5">
+		<flSe fsLl="D_50" fsFr="D_300" fsGr="D_150" fsCr="b_f" fsSf="b_f" fsTo="b_f"/>
+		<page pnam="rc_1" pgTs="o_u9e" PgDt="rx_6_c__e_Marb_b_t_b_f_l_1_c_" pmas="o_ua4" ovrl="x_0" TOpp="y_0" Jgsp="e_gsto" Jumg="b_t" Self="rc_ufc">
+			<imgp colc="l_10" colg="U_20" mart="U_0" marb="U_0" marl="U_170" marr="U_170" cold="e_horz" cpos="x_20_U_0_U_40_U_60_U_100_U_120_U_160_U_180_U_220_U_240_U_280_U_300_U_340_U_360_U_400_U_420_U_460_U_480_U_520_U_540_U_580_U_600_U_640_U_660_U_700_U_720_U_760_U_780_U_820_U_840_U_880_U_900_U_940"/>
+			<Jgda font="c_Minion Pro" ptfs="c_Regular" ptsz="U_12" Jcak="D_0" Jlak="D_9" phzs="D_100" pvts="D_100" laln="e_lltj" jgal="e_Jact" jcal="e_Jact"/>
+		</page>
+	</sprd>
+	<sctn leng="rl_1" pnam="c_" pnSt="e_Marb" SnCt="b_t" SnPx="b_f" SnMk="c_" SnPg="o_ufc" spfx="c_" Self="rc_u9f"/>
+	<DcUs UsrN="k_Unknown User Name" UsrC="e_iGld" Self="rc_dDcUs0"/>
+	<XRFm pnam="c_Full Paragraph &amp; Page Number" crst="o_n" Self="rc_ufd">
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot;" Dlmt="k_" IncD="b_f" Self="rc_ufdxBBk0"/>
+		<xBBk Type="e_bbfp" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_ufdxBBk1"/>
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot; on page " Dlmt="k_" IncD="b_f" Self="rc_ufdxBBk2"/>
+		<xBBk Type="e_bbpn" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_ufdxBBk3"/>
+	</XRFm>
+	<XRFm pnam="c_Full Paragraph" crst="o_n" Self="rc_ufe">
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot;" Dlmt="k_" IncD="b_f" Self="rc_ufexBBk0"/>
+		<xBBk Type="e_bbfp" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_ufexBBk1"/>
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot;" Dlmt="k_" IncD="b_f" Self="rc_ufexBBk2"/>
+	</XRFm>
+	<XRFm pnam="c_Paragraph Text &amp; Page Number" crst="o_n" Self="rc_uff">
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot;" Dlmt="k_" IncD="b_f" Self="rc_uffxBBk0"/>
+		<xBBk Type="e_bbpt" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_uffxBBk1"/>
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot; on page " Dlmt="k_" IncD="b_f" Self="rc_uffxBBk2"/>
+		<xBBk Type="e_bbpn" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_uffxBBk3"/>
+	</XRFm>
+	<XRFm pnam="c_Paragraph Text" crst="o_n" Self="rc_u100">
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot;" Dlmt="k_" IncD="b_f" Self="rc_u100xBBk0"/>
+		<xBBk Type="e_bbpt" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u100xBBk1"/>
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot;" Dlmt="k_" IncD="b_f" Self="rc_u100xBBk2"/>
+	</XRFm>
+	<XRFm pnam="c_Paragraph Number &amp; Page Number" crst="o_n" Self="rc_u101">
+		<xBBk Type="e_bpgn" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u101xBBk0"/>
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_ on page " Dlmt="k_" IncD="b_f" Self="rc_u101xBBk1"/>
+		<xBBk Type="e_bbpn" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u101xBBk2"/>
+	</XRFm>
+	<XRFm pnam="c_Paragraph Number" crst="o_n" Self="rc_u102">
+		<xBBk Type="e_bpgn" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u102xBBk0"/>
+	</XRFm>
+	<XRFm pnam="c_Text Anchor Name &amp; Page Number" crst="o_n" Self="rc_u103">
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot;" Dlmt="k_" IncD="b_f" Self="rc_u103xBBk0"/>
+		<xBBk Type="e_bbbn" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u103xBBk1"/>
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot; on page " Dlmt="k_" IncD="b_f" Self="rc_u103xBBk2"/>
+		<xBBk Type="e_bbpn" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u103xBBk3"/>
+	</XRFm>
+	<XRFm pnam="c_Text Anchor Name" crst="o_n" Self="rc_u104">
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot;" Dlmt="k_" IncD="b_f" Self="rc_u104xBBk0"/>
+		<xBBk Type="e_bbbn" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u104xBBk1"/>
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot;" Dlmt="k_" IncD="b_f" Self="rc_u104xBBk2"/>
+	</XRFm>
+	<XRFm pnam="c_Page Number" crst="o_n" Self="rc_u105">
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_page " Dlmt="k_" IncD="b_f" Self="rc_u105xBBk0"/>
+		<xBBk Type="e_bbpn" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u105xBBk1"/>
+	</XRFm>
+	<cxst ATOC="o_n" TCAc="b_f" sTtl="k_" Jang="o_n" Self="rc_u83">
+		<txsr prst="o_u65" crst="o_u61">
+			<pcnt>c_<?aid Char="feff" Self="rc_u83cins1"?><?aid Char="feff" Self="rc_u83cins2"?><?aid Char="feff" Self="rc_u83cins3"?><?aid Char="feff" Self="rc_u83cins4"?></pcnt>
+		</txsr>
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_Txft" sorn="e_horz" sdir="e_L2Rd"/>
+		<cMep>
+			<pcnt><![CDATA[]]></pcnt>
+		</cMep>
+	</cxst>
+	<cXML strp="ro_u83" STof="o_u83cins2" XMLt="o_ua2" Xcnt="o_u83cins2:u83cins3" Self="rc_di3"/>
+	<iSOp pnam="rk_kIndexGroup~sep~Symbol" incl="b_t" prty="l_0" hdty="e_nada" Self="rc_diSOpnkIndexGroup~sep~Symbol"/>
+	<iSOp pnam="rk_kIndexGroup~sep~Alphabet" incl="b_t" prty="l_1" hdty="e_HTBL" Self="rc_diSOpnkIndexGroup~sep~Alphabet"/>
+	<iSOp pnam="rk_kIndexGroup~sep~Numeric" incl="b_f" prty="l_2" hdty="e_nada" Self="rc_diSOpnkIndexGroup~sep~Numeric"/>
+	<iSOp pnam="rk_kWRIndexGroup~sep~GreekAlphabet" incl="b_f" prty="l_3" hdty="e_nada" Self="rc_diSOpnkWRIndexGroup~sep~GreekAlphabet"/>
+	<iSOp pnam="rk_kWRIndexGroup~sep~CyrillicAlphabet" incl="b_f" prty="l_4" hdty="e_HTRu" Self="rc_diSOpnkWRIndexGroup~sep~CyrillicAlphabet"/>
+	<iSOp pnam="rk_kIndexGroup~sep~Kana" incl="b_f" prty="l_5" hdty="e_HTHA" Self="rc_diSOpnkIndexGroup~sep~Kana"/>
+	<iSOp pnam="rk_kIndexGroup~sep~Chinese" incl="b_f" prty="l_6" hdty="e_HTCP" Self="rc_diSOpnkIndexGroup~sep~Chinese"/>
+	<iSOp pnam="rk_kIndexGroup~sep~Korean" incl="b_f" prty="l_7" hdty="e_HTKo" Self="rc_diSOpnkIndexGroup~sep~Korean"/>
+	<bnoc bnbt="e_BCuo" bnbv="l_2022" blfn="k_" blft="k_" Self="rc_dbnoc0"/>
+	<bnoc bnbt="e_BCuo" bnbv="l_2a" blfn="k_" blft="k_" Self="rc_dbnoc1"/>
+	<bnoc bnbt="e_BCuo" bnbv="l_25ca" blfn="k_" blft="k_" Self="rc_dbnoc2"/>
+	<bnoc bnbt="e_BCuf" bnbv="l_bb" blfn="c_Myriad Pro" blft="k_Regular" Self="rc_dbnoc3"/>
+	<bnoc bnbt="e_BCgf" bnbv="l_1f7" blfn="c_Minion Pro" blft="k_Regular" Self="rc_dbnoc4"/>
+	<AsMt pnam="k_UnassignedInCopy" UsrN="k_" AsEx="e_AsEs" AFCl="e_nada" AsIl="b_t" path="k_" Self="rc_ub2"/>
+</docu>
