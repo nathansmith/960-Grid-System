@@ -588,17 +588,20 @@ body {
 	height: 0;
 }
 
-/* http://perishablepress.com/press/2009/12/06/new-clearfix-hack */
+/* http://www.yuiblog.com/blog/2010/09/27/clearfix-reloaded-overflowhidden-demystified */
 
+.clearfix:before,
 .clearfix:after {
-	clear: both;
-	content: ' ';
+	content: '.';
 	display: block;
-	font-size: 0;
-	line-height: 0;
+	overflow: hidden;
 	visibility: hidden;
 	width: 0;
 	height: 0;
+}
+
+.clearfix:after {
+	clear: both;
 }
 
 /*
