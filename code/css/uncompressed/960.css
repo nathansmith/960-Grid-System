@@ -621,7 +621,7 @@ body {
 
 .clearfix:before,
 .clearfix:after {
-	content: '.';
+	content: '\0020';
 	display: block;
 	overflow: hidden;
 	visibility: hidden;
