@@ -597,7 +597,6 @@
 	Move to separate stylesheet if invalid CSS is a problem.
 */
 
-* html .clearfix,
-*:first-child+html .clearfix {
+.clearfix {
 	zoom: 1;
 }
