@@ -1,0 +1,9 @@
+NOTE:
+
+To install this extension on Windows
+you must run Adobe Extension Manager
+with administrator level privileges.
+
+Read more here...
+
+http://forums.adobe.com/thread/498624
