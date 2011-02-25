@@ -33,7 +33,7 @@ or as a basis for creating your own designs. You should not feel constrained
 by the way I have built the initial code. If you disagree with how something
 has been done, feel free to revise it for the needs of your particular site.
 
-The files in the 960 Grid System are free of charge, licensed under GPL/MIT.
+The files in the 960 Grid System are free of charge, licensed under MIT/GPL.
 
 ============================================================================
 
@@ -47,6 +47,8 @@ language you are using. Example: lang="he" for Hebrew, lang="ar" for Arabic.
 
 ============================================================================
 
-Special thanks to Eric Meyer for his comprehensive browser reset stylesheet.
+GPL license:
+http://www.gnu.org/licenses/gpl.html
 
-http://meyerweb.com/eric/tools/css/reset/
+MIT license:
+http://www.opensource.org/licenses/mit-license.php
