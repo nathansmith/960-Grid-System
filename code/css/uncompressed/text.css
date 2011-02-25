@@ -12,10 +12,6 @@ body {
 	font: 13px/1.5 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
 }
 
-a:focus {
-	outline: 1px dotted;
-}
-
 hr {
 	border: 0 #ccc solid;
 	border-top-width: 1px;
@@ -79,6 +75,7 @@ ul,
 pre,
 table,
 address,
-fieldset {
+fieldset,
+figure {
 	margin-bottom: 20px;
 }
