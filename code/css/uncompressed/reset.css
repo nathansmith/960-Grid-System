@@ -133,6 +133,7 @@ strong {
 }
 
 img {
+  color: transparent;
   font-size: 0;
   vertical-align: middle;
 /*
