@@ -1,68 +1,68 @@
 /*
-	960 Grid System ~ Text CSS.
-	Learn more ~ http://960.gs/
+  960 Grid System ~ Text CSS.
+  Learn more ~ http://960.gs/
 
-	Licensed under GPL and MIT.
+  Licensed under GPL and MIT.
 */
 
 /* `Basic HTML
 ----------------------------------------------------------------------------------------------------*/
 
 body {
-	font: 13px/1.5 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
+  font: 13px/1.5 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
 }
 
 a:focus {
-	outline: 1px dotted;
+  outline: 1px dotted;
 }
 
 hr {
-	border: 0 #ccc solid;
-	border-top-width: 1px;
-	clear: both;
-	height: 0;
+  border: 0 #ccc solid;
+  border-top-width: 1px;
+  clear: both;
+  height: 0;
 }
 
 /* `Headings
 ----------------------------------------------------------------------------------------------------*/
 
 h1 {
-	font-size: 25px;
+  font-size: 25px;
 }
 
 h2 {
-	font-size: 23px;
+  font-size: 23px;
 }
 
 h3 {
-	font-size: 21px;
+  font-size: 21px;
 }
 
 h4 {
-	font-size: 19px;
+  font-size: 19px;
 }
 
 h5 {
-	font-size: 17px;
+  font-size: 17px;
 }
 
 h6 {
-	font-size: 15px;
+  font-size: 15px;
 }
 
 /* `Spacing
 ----------------------------------------------------------------------------------------------------*/
 
 ol {
-	list-style: decimal;
+  list-style: decimal;
 }
 
 ul {
-	list-style: disc;
+  list-style: disc;
 }
 
 li {
-	margin-right: 30px;
+  margin-right: 30px;
 }
 
 p,
@@ -80,5 +80,5 @@ pre,
 table,
 address,
 fieldset {
-	margin-bottom: 20px;
+  margin-bottom: 20px;
 }
