@@ -17,7 +17,7 @@ web development workflow. Enclosed in the bundle are printable sketch sheets
 and template files for Adobe Fireworks and Photoshop, OmniGraffle and Visio.
 
 Also included is a lightweight CSS file, which contains the grid dimensions.
-To use this file, simply include the 960.css in the <head> of the HTML page.	
+To use this file, simply include the 960.css in the <head> of the HTML page.
 You may also use the reset.css and text.css files, or opt to leave them out.
 Here is an example of the XHTML code necessary to incorporate the CSS files:
 
@@ -38,7 +38,7 @@ The files in the 960 Grid System are free of charge, licensed under MIT/GPL.
 ============================================================================
 
 Note that if you are building a site in a language which reads from right to
-left, use the CSS files that begin with "rtl_" instead. Denote the language:
+left, use the CSS files that end in "_rtl.css" instead. Denote the language:
 
 <html lang="..." dir="rtl">
 
