@@ -621,10 +621,11 @@ body {
 
 .clearfix:before,
 .clearfix:after {
-  content: '\0020';
+  content: '.';
   display: block;
   overflow: hidden;
   visibility: hidden;
+  font-size: 0;
   width: 0;
   height: 0;
 }
