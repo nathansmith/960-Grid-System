@@ -620,17 +620,24 @@ body {
 /* http://www.yuiblog.com/blog/2010/09/27/clearfix-reloaded-overflowhidden-demystified */
 
 .clearfix:before,
-.clearfix:after {
+.clearfix:after,
+.container_12:before,
+.container_12:after,
+.container_16:before,
+.container_16:after {
   content: '.';
   display: block;
   overflow: hidden;
   visibility: hidden;
   font-size: 0;
+  line-height: 0;
   width: 0;
   height: 0;
 }
 
-.clearfix:after {
+.clearfix:after,
+.container_12:after,
+.container_16:after {
   clear: both;
 }
 
@@ -639,6 +646,8 @@ body {
   Move to separate stylesheet if invalid CSS is a problem.
 */
 
-.clearfix {
+.clearfix,
+.container_12,
+.container_16 {
   zoom: 1;
 }
