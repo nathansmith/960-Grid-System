@@ -17,8 +17,9 @@ body {
   min-width: 960px;
 }
 
-/* `Container >> 24 Columns
+/* `Container
 ----------------------------------------------------------------------------------------------------*/
+
 .container_24 {
   margin-left: auto;
   margin-right: auto;
