@@ -163,6 +163,37 @@ caption {
   text-align: right;
 }
 
+q {
+  quotes: none;
+}
+
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+
+sub,
+sup,
+small {
+  font-size: 75%;
+}
+
+sup,
+sub {
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
 svg {
 /*
   For IE9.
