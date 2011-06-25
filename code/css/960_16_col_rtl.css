@@ -47,7 +47,6 @@ body {
 .grid_16 {
   display: inline;
   float: left;
-  position: relative;
   margin-right: 10px;
   margin-left: 10px;
 }
