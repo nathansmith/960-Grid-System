@@ -651,3 +651,11 @@ body {
 .container_16 {
   zoom: 1;
 }
+
+.center {  /* this overrides 960.gs  and center the tag. baligena custom*/
+  display: block;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  background: blue;
+}
