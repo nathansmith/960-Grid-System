@@ -1,0 +1,14 @@
+=======================
+960 GRID SYSTEM - LOGOS
+=======================
+
+I've had several people ask for the 960 logo in various formats.
+
+These files are here for you to use, if you encorporate 960 into
+a third party theme, template, tool, etc. I just ask that if you
+do use this logo, that you do so to promote the 960 Grid System,
+but not repurpose it for your own company and/or personal brand.
+
+Thanks!
+
+-- Nathan Smith
