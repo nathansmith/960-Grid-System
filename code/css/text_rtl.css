@@ -18,7 +18,7 @@ code {
 }
 
 hr {
-  border: 0 #ccc solid;
+  border: 0 solid #ccc;
   border-top-width: 1px;
   clear: both;
   height: 0;
