@@ -1,8 +1,7 @@
-To install the Photoshop action, go to...
+To install, choose "Load Actions..." from the menu in the Actions pallette.
 
-[Photoshop Directory] > Presets > Actions
+You will now be able to create templates on the fly, by using the Actions panel.
 
-Copy the 960_GRIDS.atn file there.
+For more info, see this GitHub thread:
 
-You will now be able to create templates
-on the fly, by using the Actions panel.
+https://github.com/nathansmith/960-Grid-System/issues/26
