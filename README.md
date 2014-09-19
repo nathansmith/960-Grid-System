@@ -1,4 +1,4 @@
-960 GRID SYSTEM
+960 Grid System
 ===============
 
 Created by Nathan Smith. See the official site for more info: http://960.gs
