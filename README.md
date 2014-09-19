@@ -1,7 +1,7 @@
 960 GRID SYSTEM
 ===============
 
-Created by Nathan Smith. See the official site for more info: http://960.gs/
+Created by Nathan Smith. See the official site for more info: http://960.gs
 
 To install the Adobe Fireworks extension, simply double-click the `*.mxp` file
 included in the `/fireworks_extension directory`. If you are running Windows 7
