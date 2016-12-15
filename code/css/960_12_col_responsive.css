@@ -1,0 +1,119 @@
+@media only screen and (min-width: 1px) and (max-width: 599px) {
+    body {
+        min-width: 320px;
+        }
+
+    .container_12 {
+        width: 320px;
+        }
+          .container_12 .grid_1
+        , .container_12 .grid_2
+        , .container_12 .grid_3
+        , .container_12 .grid_4
+        , .container_12 .grid_5
+        , .container_12 .grid_6
+        , .container_12 .grid_7
+        , .container_12 .grid_8
+        , .container_12 .grid_9
+        , .container_12 .grid_10
+        , .container_12 .grid_11
+        , .container_12 .grid_12 {
+            display: block;
+            float: none;
+            left: 0px;
+            margin: 0px;
+            padding: 0px;
+            width: 100%;
+            }
+    }
+
+@media only screen and (min-width: 480px) {
+    body {
+        min-width: 480px;
+        }
+
+    .container_12 {
+        width: 480px;
+        }
+    }
+
+@media only screen and (min-width: 600px) and (max-width: 959px) {
+    body {
+        min-width: 600px;
+        }
+
+    .container_12 {
+        width: 600px;
+        }
+
+        .container_12 .prefix_1  { padding-left:  50px; }
+        .container_12 .prefix_2  { padding-left: 100px; }
+        .container_12 .prefix_3  { padding-left: 150px; }
+        .container_12 .prefix_4  { padding-left: 200px; }
+        .container_12 .prefix_5  { padding-left: 250px; }
+        .container_12 .prefix_6  { padding-left: 300px; }
+        .container_12 .prefix_7  { padding-left: 350px; }
+        .container_12 .prefix_8  { padding-left: 400px; }
+        .container_12 .prefix_9  { padding-left: 450px; }
+        .container_12 .prefix_10 { padding-left: 500px; }
+        .container_12 .prefix_11 { padding-left: 550px; }
+
+        .container_12 .suffix_1  { padding-right:  50px; }
+        .container_12 .suffix_2  { padding-right: 100px; }
+        .container_12 .suffix_3  { padding-right: 150px; }
+        .container_12 .suffix_4  { padding-right: 200px; }
+        .container_12 .suffix_5  { padding-right: 250px; }
+        .container_12 .suffix_6  { padding-right: 300px; }
+        .container_12 .suffix_7  { padding-right: 350px; }
+        .container_12 .suffix_8  { padding-right: 400px; }
+        .container_12 .suffix_9  { padding-right: 450px; }
+        .container_12 .suffix_10 { padding-right: 500px; }
+        .container_12 .suffix_11 { padding-right: 550px; }
+
+        .container_12 .pull_1  { left:  -50px; }
+        .container_12 .pull_2  { left: -100px; }
+        .container_12 .pull_3  { left: -150px; }
+        .container_12 .pull_4  { left: -200px; }
+        .container_12 .pull_5  { left: -250px; }
+        .container_12 .pull_6  { left: -300px; }
+        .container_12 .pull_7  { left: -350px; }
+        .container_12 .pull_8  { left: -400px; }
+        .container_12 .pull_9  { left: -450px; }
+        .container_12 .pull_10 { left: -500px; }
+        .container_12 .pull_11 { left: -550px; }
+
+        .container_12 .push_1  { left:  50px; }
+        .container_12 .push_2  { left: 100px; }
+        .container_12 .push_3  { left: 150px; }
+        .container_12 .push_4  { left: 200px; }
+        .container_12 .push_5  { left: 250px; }
+        .container_12 .push_6  { left: 300px; }
+        .container_12 .push_7  { left: 350px; }
+        .container_12 .push_8  { left: 400px; }
+        .container_12 .push_9  { left: 450px; }
+        .container_12 .push_10 { left: 500px; }
+        .container_12 .push_11 { left: 550px; }
+
+        .container_12 .grid_1  { width:  30px; }
+        .container_12 .grid_2  { width:  80px; }
+        .container_12 .grid_3  { width: 130px; }
+        .container_12 .grid_4  { width: 180px; }
+        .container_12 .grid_5  { width: 230px; }
+        .container_12 .grid_6  { width: 280px; }
+        .container_12 .grid_7  { width: 330px; }
+        .container_12 .grid_8  { width: 380px; }
+        .container_12 .grid_9  { width: 430px; }
+        .container_12 .grid_10 { width: 480px; }
+        .container_12 .grid_11 { width: 530px; }
+        .container_12 .grid_12 { width: 580px; }
+    }
+
+@media only screen and (min-width: 960px) {
+    body {
+        min-width: 960px;
+        }
+
+    .container_12 {
+        width: 960px;
+        }
+    }
