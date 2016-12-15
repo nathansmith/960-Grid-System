@@ -1,5 +1,6 @@
 960 Grid System
 ===============
+[![CDNJS](https://img.shields.io/cdnjs/v/960gs.svg)](https://cdnjs.com/libraries/960gs)
 
 Created by Nathan Smith. See the official site for more info: http://960.gs
 
