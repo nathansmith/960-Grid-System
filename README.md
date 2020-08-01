@@ -4,7 +4,7 @@
 Created by Nathan Smith. See the official site for more info: http://960.gs
 
 To install the Adobe Fireworks extension, simply double-click the `*.mxp` file
-included in the `/fireworks_extension` directory. If you are running Windows 7
+included in the `/app_plugins/fireworks` directory. If you are running Windows 7
 you will need admin permissions in order to install this extension properly.
 
 ----------------------------------------------------------------------------
